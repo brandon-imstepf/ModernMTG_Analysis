@@ -23,8 +23,8 @@ I went to https://mtgdecks.net/Modern and found the top forty decks represented 
 The program I wrote scraped the Name, Name Length, Color, Converted Mana Cost and Rarity of each and every card played in the top forty decks in Modern MTG. It returned nearly 13,000 cards but after duplicates were deleted, only 2460 cards remained. With this data in hand and cleaned in Excel, I popped over the Tableu to visualize it. Ugly. Repulsive. Not fit for your average MTG art enjoyer. So I spent more time editing it by hand than I did programming, and truth be told it doesn't really show. I'm no artist or editor, but I hope you all appreciate it.
 
 For those unfamaliar or need a refresher to understand the graph you are about to see:
-  In Magic: The Gathering, almost every card costs Mana, a resource that is represented by five colors. Blue (U), Red (R), Black (B), Green (G) and White (W). 
-  There is also "Generic Mana" which can come from *any* mana source and is usually a grey color. Let's take a look.
+  1. In Magic: The Gathering, almost every card costs Mana, a resource that is represented by five colors. Blue (U), Red (R), Black (B), Green (G) and White (W). 
+  2. There is also "Generic Mana" which can come from *any* mana source and is usually a grey color. Let's take a look.
 
 ![color vs avg price v1 2](https://user-images.githubusercontent.com/86437248/133210189-6837ab3a-5ef6-40c3-b11c-3a345b890d6a.png)
 
