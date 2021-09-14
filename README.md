@@ -28,13 +28,13 @@ For those unfamaliar or need a refresher to understand the graph you are about t
 
 ![color vs avg price v1 2](https://user-images.githubusercontent.com/86437248/133210189-6837ab3a-5ef6-40c3-b11c-3a345b890d6a.png)
 
-As you can see, the cheapest mono-color to play is Red, the cheapest dual-color is Boros (Red/White) and the overall cheapest color combination to play is Abzan (Black/Green/White). Generally, the more varied the mana costs are, the harder it is to cast that card, therefore it is generally a much more powerful card. It explains the abrupt jump in cost, as stronger cards are worth more.
-To explain the abrupt jump in cost with multicolored cards:
-1. Multicolored cards are harder to cast, therefore they are generally more powerful than cards which cost the same *amount* of mana but in fewer colors. 
-2. Multicolored cards are also almost never Common rarity, so they are fewer in number and harder to get out of your pack when you open it.
+As you can see, the cheapest mono-color to play is Red, the cheapest dual-color is Boros (Red/White) and the overall cheapest color combination to play is Abzan (Black/Green/White). Generally, the more varied the mana costs are, the harder it is to cast that card, therefore it is generally a much more powerful card. On top of that, multicolored cards are rarely Common or uncommonly Uncommon in rarity. It explains the abrupt jump in cost, as stronger cards are worth more. 
 
-Speaking of rarity, here's something most of you already know: 
+Speaking of rarity (not the mind melter of a sentence), I also extrapolated the rarity of each card and put it against the average price. As this graph isn't as loaded as the last,  I also included the count of each card that belongs to that specific rarity which is located below each bar.
+
+To explain some of these prices before you see them for those unfamiliar or forgetfull:
+1. When you open a Magic: The Gathering booster pack physically, it will contain 15 cards. One basic land, Ten common cards, three uncommon cards, and one is either a rare or mythic rare (you are less likely to open a mythic rare than a rare).
 
 ![avg Price vs Rarity v2 0](https://user-images.githubusercontent.com/86437248/133210901-3eda5c33-23df-4adc-abc3-0570243a6b77.png)
 
-Here we see the price of the average card of each rarity. When I saw this data, I was surprised as I expected the Commons to be cheaper, as most usually are worth less than an American quarter. However, because these commons belong to the best decks in the format, they are very good commons. Highly prized, but still Common. 
+When I first saw this data, I was surprised as I expected the Commons to be cheaper, as most usually are worth less than an American quarter. However, because these commons belong to the best decks in the format, they are very good commons. Highly prized, but still Common. 
