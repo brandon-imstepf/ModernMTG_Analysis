@@ -30,11 +30,11 @@ For those unfamaliar or need a refresher to understand the graph you are about t
 
 As you can see, the cheapest mono-color to play is Red, the cheapest dual-color is Boros (Red/White) and the overall cheapest color combination to play is Abzan (Black/Green/White). Generally, the more varied the mana costs are, the harder it is to cast that card, therefore it is generally a much more powerful card. It explains the abrupt jump in cost, as stronger cards are worth more.
 To explain the abrupt jump in cost with multicolored cards:
-  Multicolored cards are harder to cast, therefore they are generally more powerful than cards which cost the same *amount* of mana but in fewer colors.
-  Multicolored cards are also almost never Common rarity, so they are fewer in number and harder to get out of your pack when you open it.
+1. Multicolored cards are harder to cast, therefore they are generally more powerful than cards which cost the same *amount* of mana but in fewer colors. 
+2. Multicolored cards are also almost never Common rarity, so they are fewer in number and harder to get out of your pack when you open it.
 
 Speaking of rarity, here's something most of you already know: 
 
 ![avg Price vs Rarity v2 0](https://user-images.githubusercontent.com/86437248/133210901-3eda5c33-23df-4adc-abc3-0570243a6b77.png)
 
-Here we see the price of the average card of each rarity.
+Here we see the price of the average card of each rarity. When I saw this data, I was surprised as I expected the Commons to be cheaper, as most usually are worth less than an American quarter. However, because these commons belong to the best decks in the format, they are very good commons. Highly prized, but still Common. 
