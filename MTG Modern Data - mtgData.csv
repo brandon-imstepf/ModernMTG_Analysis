@@ -1,0 +1,2462 @@
+0,Monastery Swiftspear,20,$2.79,R,1,U
+1,Stormwing Entity,16,$3.99,U,4,R
+2,Soul-Scar Mage,14,$7.49,R,1,R
+3,Sprite Dragon,13,$2.49,UR,2,U
+4,Dragon's Rage Channeler,23,$3.49,R,1,U
+5,Bedlam Reveler,14,$1.29,R,7,R
+6,"Ragavan, Nimble Pilferer",24,$94.99,R,1,M
+7,Murktide Regent,15,$27.99,U,6,M
+8,Snapcaster Mage,15,$74.99,U,2,R
+9,Brazen Borrower,15,$19.99,U,2,M
+10,Lightning Bolt,14,$3.99,R,1,U
+11,Manamorphose,12,$5.99,R,2,U
+12,Lava Dart,9,$0.25,R,1,C
+13,Mutagenic Growth,16,$3.49,G,1,U
+14,Opt,3,$0.25,U,1,C
+15,Gut Shot,8,$1.79,R,1,C
+16,Burst Lightning,15,$0.25,R,1,C
+17,Vapor Snag,10,$0.49,U,1,C
+18,Unholy Heat,11,$0.99,R,1,C
+19,Wild Slash,10,$0.49,R,1,U
+20,Counterspell,12,$1.49,U,1,C
+21,Archmage's Charm,16,$17.99,U,1,R
+22,Thought Scour,13,$0.69,U,1,C
+23,Force of Negation,17,$89.99,U,2,R
+24,Light Up the Stage,18,$0.35,R,3,U
+25,Expressive Iteration,20,$7.99,UR,2,U
+26,Serum Visions,13,$1.79,U,1,U
+27,Crash Through,13,$0.25,R,1,C
+28,Mishra's Bauble,15,$13.99,V,0,U
+29,Spirebluff Canal,16,$19.99,V,0,R
+30,Mountain,8,$0.01,V,0,B
+31,Fiery Islet,11,$20.99,V,0,R
+32,Steam Vents,11,$17.99,V,0,R
+33,Scalding Tarn,13,$42.99,V,0,R
+34,Wooded Foothills,16,$49.99,V,0,R
+35,Bloodstained Mire,17,$47.99,V,0,R
+36,Arid Mesa,9,$23.99,V,0,R
+37,Island,6,$0.01,V,0,B
+38,Flooded Strand,14,$39.99,V,0,R
+39,Snow-Covered Mountain,21,$0.99,V,0,C
+40,Polluted Delta,14,$49.99,V,0,R
+41,Hallowed Fountain,17,$9.99,V,0,R
+42,Lava Spike,10,$3.99,R,1,C
+43,Misty Rainforest,16,$34.99,V,0,R
+44,Sulfur Falls,12,$5.99,V,0,R
+45,Spell Pierce,12,$0.49,U,1,C
+46,Prismari Command,16,$9.49,UR,3,R
+47,Snow-Covered Island,19,$1.49,V,0,C
+48,Sleight of Hand,15,$1.29,U,1,C
+49,Bonecrusher Giant,17,$1.49,R,3,R
+50,Delver of Secrets,17,$0.49,U,1,M
+51,Kiln Fiend,10,$0.25,R,2,C
+52,Rift Bolt,9,$0.25,R,3,C
+53,Blood Moon,10,$21.99,R,3,R
+54,Surgical Extraction,19,$32.99,B,1,R
+55,Peek,4,$0.25,U,1,C
+56,Fire/Ice,8,$0.35,UR,3,U
+57,Cryptic Command,15,$24.99,U,2,R
+58,Spellstutter Sprite,19,$4.49,U,2,C
+59,Hall of Storm Giants,20,$2.79,V,0,R
+60,The Royal Scions,16,$2.29,UR,3,M
+61,Dreadhorde Arcanist,19,$2.29,R,2,R
+62,Temur Battle Rage,17,$0.25,R,2,C
+63,Tarfire,7,$0.25,R,1,C
+64,Shivan Reef,11,$1.29,V,0,R
+65,Forked Bolt,11,$0.49,R,1,C
+66,Spell Snare,11,$0.59,U,1,U
+67,Seal of Removal,15,$0.25,U,1,C
+68,Remand,6,$3.99,U,2,U
+69,Seasoned Pyromancer,19,$44.99,R,2,M
+70,Of One Mind,11,$0.25,U,3,C
+71,Watery Grave,12,$17.99,V,0,R
+72,Prismatic Ending,16,$3.49,W,1,U
+73,Firebolt,8,$0.25,R,1,C
+74,Riverglide Pathway,18,$6.49,V,0,R
+75,"Jace, the Mind Sculptor",23,$69.99,U,3,M
+76,Stern Dismissal,15,$0.25,U,1,C
+77,Stormchaser Mage,16,$0.29,UR,2,U
+78,Goldspan Dragon,15,$54.99,R,4,M
+79,Engineered Explosives,21,$17.99,V,0,R
+80,Dead/Gone,9,$0.25,R,3,C
+81,Flame Slash,11,$0.35,R,1,C
+82,Castle Vantress,15,$1.79,V,0,R
+83,Nimble Obstructionist,21,$0.39,U,3,R
+84,Stomping Ground,15,$15.99,V,0,R
+85,Blistercoil Weird,17,$0.25,U,1,U
+86,Silumgar's Scorn,16,$0.25,U,1,U
+87,Assault Strobe,14,$0.69,R,1,C
+88,Magmatic Sinkhole,17,$0.25,R,6,C
+89,Fabled Passage,14,$7.99,V,0,R
+90,Magmatic Channeler,18,$0.79,R,2,R
+91,Abrade,6,$0.59,R,2,U
+92,Cascade Bluffs,14,$9.99,V,0,R
+93,Cleansing Wildfire,18,$0.35,R,2,C
+94,Subtlety,8,$8.99,U,3,M
+95,Thing in the Ice,16,$7.99,U,2,R
+96,Memory Lapse,12,$0.25,U,2,C
+97,Monastery Mentor,16,$19.99,W,3,M
+98,Wizard's Lightning,18,$0.25,R,3,U
+99,Bloodwater Entity,17,$0.25,UR,3,U
+100,Seal of Fire,12,$0.39,R,1,C
+101,Raugrin Triome,14,$15.99,V,0,R
+102,Burning Prophet,15,$0.25,R,2,C
+103,Inspiring Vantage,17,$8.99,V,0,R
+104,Demilich,8,$9.99,U,1,M
+105,Become Immense,14,$0.25,G,6,U
+106,Blood Crypt,11,$29.99,V,0,R
+107,Electrolyze,11,$0.25,UR,3,U
+108,Pithing Needle,14,$5.99,V,1,R
+109,Sunbaked Canyon,15,$21.99,V,0,R
+110,Flusterstorm,12,$22.99,U,1,R
+111,Kolaghan's Command,18,$16.99,RB,3,R
+112,Faithless Looting,17,$0.29,R,1,C
+113,Apostle's Blessing,18,$0.29,W,2,C
+114,Soul-Guide Lantern,18,$3.99,V,1,U
+115,Spreading Seas,14,$1.99,U,2,C
+116,Strike It Rich,14,$0.25,R,1,U
+117,Disrupting Shoal,16,$0.59,U,1,R
+118,Sleep of the Dead,17,$0.25,U,1,C
+119,Underworld Breach,17,$7.99,R,2,R
+120,Finale of Promise,17,$2.99,R,1,M
+121,Noxious Revival,15,$16.99,G,1,U
+122,Unsummon,8,$0.25,U,1,C
+123,Prismatic Vista,15,$32.99,V,0,R
+124,Izzet Charm,11,$0.29,UR,2,U
+125,Shark Typhoon,13,$11.99,U,6,R
+126,Logic Knot,10,$0.25,U,1,C
+127,Swamp,5,$0.01,V,0,B
+128,Rip Apart,9,$0.49,RW,2,U
+129,Aether Gust,11,$0.59,U,2,U
+130,Reckless Charge,15,$0.25,R,1,C
+131,Unsubstantiate,14,$0.25,U,2,U
+132,Mana Leak,9,$0.25,U,2,C
+133,Ideas Unbound,13,$1.29,U,1,C
+134,Forgotten Cave,14,$0.25,V,0,C
+135,Pyrite Spellbomb,16,$0.25,V,1,C
+136,Bomat Courier,13,$0.35,V,1,R
+137,Ghost Quarter,13,$0.35,V,0,U
+138,Myriad Construct,16,$0.25,V,4,R
+139,Shock,5,$0.25,R,1,C
+140,Sacred Foundry,14,$19.99,V,0,R
+141,Young Pyromancer,16,$0.79,R,2,U
+142,Kozilek's Return,16,$12.99,R,3,M
+143,Dragon's Claw,13,$0.25,V,2,U
+144,Tormod's Crypt,14,$0.49,V,0,C
+145,Mystical Dispute,16,$0.79,U,3,U
+146,Relic of Progenitus,19,$6.99,V,1,U
+147,Dispel,6,$0.29,U,1,C
+148,Alpine Moon,11,$10.99,R,1,R
+149,Threads of Disloyalty,21,$0.35,U,2,R
+150,Shattering Spree,16,$1.79,R,1,U
+151,Leyline of the Void,19,$7.49,B,3,R
+152,Void Mirror,11,$1.79,V,2,R
+153,Ceremonious Rejection,21,$0.25,U,1,U
+154,"Kataki, War's Wage",18,$9.99,W,2,R
+155,Grafdigger's Cage,17,$3.49,V,1,R
+156,Chalice of the Void,19,$69.99,V,0,S
+157,Dismember,9,$4.49,B,2,U
+158,Smash to Smithereens,20,$0.35,R,2,C
+159,Lurrus of the Dream-Den,23,$11.99,W,2,R
+160,Anger of the Gods,17,$1.49,R,2,R
+161,Dress Down,10,$3.49,U,2,R
+162,Ravenous Trap,13,$0.25,B,3,U
+163,Disdainful Stroke,17,$0.25,U,2,C
+164,Echoing Truth,13,$0.35,U,2,C
+165,Claim the Firstborn,19,$0.25,R,1,U
+166,Hurkyl's Recall,15,$5.49,U,2,R
+167,Molten Rain,11,$0.29,R,2,C
+168,Wear/Tear,9,$2.29,R,2,U
+169,Vendilion Clique,16,$8.99,U,2,M
+170,Torpor Orb,10,$15.99,V,2,R
+171,Shrine of Burning Rage,22,$0.49,V,2,U
+172,Skullcrack,10,$2.79,R,2,U
+173,Shenanigans,11,$0.25,R,2,C
+174,Miscast,7,$0.99,U,1,U
+175,Goblin Cratermaker,18,$0.35,R,2,U
+176,Reality Hemorrhage,18,$0.25,R,2,C
+177,Path to Exile,13,$5.49,W,1,U
+178,Grim Lavamancer,15,$0.35,R,1,R
+179,Harsh Mentor,12,$0.25,R,2,R
+180,Magus of the Moon,17,$3.99,R,3,R
+181,Rampaging Ferocidon,19,$4.99,R,3,R
+182,Pillage,7,$0.25,R,2,U
+183,Pyroclasm,9,$0.25,R,2,U
+184,Unified Will,12,$0.25,U,2,U
+185,Roiling Vortex,14,$0.99,R,2,R
+186,Search for Azcanta,18,$7.99,U,2,R
+187,Negate,6,$0.25,U,2,C
+188,Timely Reinforcements,21,$0.99,W,3,U
+189,Searing Blaze,13,$2.79,R,1,C
+190,Ancient Grudge,14,$0.25,R,2,C
+191,Shatterstorm,12,$0.35,R,3,R
+192,Test of Talents,15,$0.25,U,2,U
+193,Leyline of Sanctity,19,$5.99,W,3,R
+194,By Force,8,$1.29,R,1,U
+195,Fiery Cannonade,15,$0.25,R,3,U
+196,Tormod's Cryptkeeper,20,$0.25,V,3,C
+197,Leyline of Combustion,21,$0.59,R,3,R
+198,Stubborn Denial,15,$1.29,U,1,U
+199,Crackling Drake,15,$0.25,UR,2,U
+200,Tarmogoyf,9,$32.99,G,2,R
+201,"Ashiok, Dream Render",20,$2.99,U,2,U
+202,Magma Spray,11,$0.25,R,1,C
+203,Izzet Staticaster,17,$0.25,UR,3,U
+204,Rest in Peace,13,$7.99,W,2,R
+205,Aria of Flame,13,$0.79,R,3,R
+206,Counterbalance,14,$17.99,U,1,U
+207,Scrabbling Claws,16,$0.25,V,1,U
+208,Leyline of Punishment,21,$2.49,R,3,R
+209,Nihil Spellbomb,15,$0.79,V,1,C
+210,Vedalken Shackles,17,$9.99,V,3,R
+211,"Kozilek, Butcher of Truth",25,$74.99,V,10,M
+212,Fury,4,$19.99,R,4,M
+213,Pact of Negation,16,$10.99,V,0,R
+214,Delay,5,$0.79,U,2,U
+215,Rough/Tumble,12,$0.25,R,2,U
+216,Damping Sphere,14,$2.99,V,2,U
+217,Veil of Summer,14,$11.99,G,1,U
+218,Pyromancer Ascension,20,$0.35,R,2,R
+219,Echoing Ruin,12,$0.25,R,2,C
+220,"Chandra, Awakened Inferno",25,$12.99,R,5,M
+221,Fry,3,$0.25,R,2,U
+222,Dire Fleet Daredevil,20,$1.29,R,2,R
+223,"Chandra, Torch of Defiance",26,$9.49,R,3,M
+224,Shadowspear,11,$24.99,V,1,R
+225,Spellskite,10,$4.99,V,2,R
+226,Hazoret the Fervent,19,$2.49,R,4,M
+227,Seal of Cleansing,17,$0.25,W,2,C
+228,Sulfur Elemental,16,$0.25,R,3,U
+229,"Emrakul, the Aeons Torn",23,$49.99,V,15,M
+230,Tale's End,10,$1.99,U,2,R
+231,Hibernation,11,$0.25,U,3,U
+232,Thalia's Lieutenant,19,$0.69,W,2,R
+233,Champion of the Parish,22,$2.29,W,1,R
+234,Noble Hierarch,14,$17.99,G,1,R
+235,Mantis Rider,12,$1.29,URW,3,R
+236,Meddling Mage,13,$1.79,UW,2,R
+237,Reflector Mage,14,$0.99,UW,3,U
+238,Phantasmal Image,16,$10.99,U,2,R
+239,Kitesail Freebooter,19,$0.25,B,2,U
+240,"Thalia, Guardian of Thraben",27,$14.99,W,2,R
+241,General Kudro of Drannith,25,$2.49,BW,3,M
+242,Deputy of Detention,19,$0.69,UW,3,R
+243,Charming Prince,15,$2.79,W,2,R
+244,Unsettled Mariner,17,$3.49,UW,2,R
+245,Militia Bugler,14,$0.25,W,3,U
+246,Kessig Malcontents,18,$0.25,R,3,U
+247,Imperial Recruiter,18,$10.99,R,3,M
+248,Shardless Agent,15,$0.69,UG,3,R
+249,Dark Confidant,14,$32.99,B,2,M
+250,Aether Vial,11,$29.99,V,1,U
+251,Cavern of Souls,15,$99.99,V,0,R
+252,Unclaimed Territory,19,$3.49,V,0,U
+253,Ancient Ziggurat,16,$5.49,V,0,U
+254,Horizon Canopy,14,$32.99,V,0,R
+255,Plains,6,$0.01,V,0,B
+256,Waterlogged Grove,17,$9.99,V,0,R
+257,Silent Clearing,15,$12.99,V,0,R
+258,Seachrome Coast,15,$12.99,V,0,R
+259,Snow-Covered Plains,19,$0.79,V,0,C
+260,Gemstone Mine,13,$9.99,V,0,S
+261,Mayor of Avabruck,17,$6.99,G,2,R
+262,Skyclave Apparition,19,$9.49,W,2,R
+263,Luminarch Aspirant,18,$3.99,W,2,R
+264,Reflecting Pool,15,$29.99,V,0,R
+265,Collected Company,17,$23.99,G,4,R
+266,Esper Sentinel,14,$17.99,W,1,R
+267,Sanctum Prelate,15,$23.99,W,2,M
+268,Mirran Crusader,15,$0.99,W,2,R
+269,Fervent Champion,16,$0.25,R,1,R
+270,Auriok Champion,15,$24.99,W,1,R
+271,Marsh Flats,11,$23.99,V,0,R
+272,General Ferrous Rokiric,23,$0.69,RW,3,R
+273,Ash Zealot,10,$0.49,R,1,R
+274,Windswept Heath,15,$32.99,V,0,R
+275,"Kytheon, Hero of Akros",22,$3.99,W,1,M
+276,"Judith, the Scourge Diva",24,$0.79,RB,3,R
+277,Elite Spellbinder,17,$3.49,W,3,R
+278,Realmwalker,11,$4.99,G,3,R
+279,Forest,6,$0.01,V,0,B
+280,Godless Shrine,14,$17.99,V,0,R
+281,Drannith Magistrate,19,$6.49,W,2,R
+282,Eternal Witness,15,$4.99,G,2,U
+283,Avacyn's Pilgrim,16,$0.59,G,1,C
+284,Silverquill Silencer,20,$0.25,BW,2,R
+285,"Tajic, Legion's Edge",20,$0.49,RW,3,R
+286,Mana Confluence,15,$27.99,V,0,R
+287,Aether Hub,10,$0.25,V,0,U
+288,Kargan Intimidator,18,$0.25,R,2,R
+289,"Venser, Shaper Savant",21,$2.29,U,3,M
+290,Renegade Rallier,16,$0.25,GW,3,U
+291,Saffi Eriksdotter,17,$0.59,GW,2,R
+292,Concealed Courtyard,19,$5.99,V,0,R
+293,Cartel Aristocrat,17,$0.25,BW,2,U
+294,Razorverge Thicket,18,$9.99,V,0,R
+295,"Thalia, Heretic Cathar",22,$5.99,W,3,R
+296,Thraben Inspector,17,$0.25,W,1,C
+297,Temple Garden,13,$16.99,V,0,R
+298,Flagstones of Trokair,21,$3.99,V,0,R
+299,Soldier of the Pantheon,23,$0.35,W,1,R
+300,Ranger-Captain of Eos,21,$13.99,W,2,M
+301,Glasspool Mimic,15,$3.99,U,3,R
+302,Ephemerate,10,$0.99,W,1,C
+303,Watcher for Tomorrow,20,$0.49,U,2,U
+304,Sanctifier en-Vec,17,$1.99,W,1,R
+305,Smuggler's Copter,17,$3.99,V,2,R
+306,Dauntless Bodyguard,19,$0.29,W,1,U
+307,Ethersworn Canonist,19,$9.49,W,2,R
+308,Giant Killer,12,$0.25,W,1,R
+309,Zulaport Cutthroat,18,$0.99,B,2,U
+310,Restoration Angel,17,$0.99,W,4,R
+311,Precinct Captain,16,$0.35,W,1,R
+312,Mirror Image,12,$0.69,U,3,U
+313,"Grist, the Hunger Tide",22,$6.49,BG,3,M
+314,Mutavault,9,$16.99,V,0,R
+315,Benalish Marshal,16,$0.69,W,1,R
+316,"Alirios, Enraptured",19,$0.25,U,3,U
+317,Breeding Pool,13,$19.99,V,0,R
+318,Brightclimb Pathway,19,$7.49,V,0,R
+319,Giver of Runes,14,$7.99,W,1,R
+320,Soulherder,10,$0.59,UW,3,U
+321,Archfiend's Vessel,18,$0.39,B,1,U
+322,Blade Splicer,13,$0.69,W,3,R
+323,"Winota, Joiner of Forces",24,$7.49,RW,4,M
+324,Tithe Taker,11,$0.99,W,2,R
+325,Silverblade Paladin,19,$0.79,W,2,R
+326,Brave the Elements,18,$0.35,W,1,U
+327,General's Enforcer,18,$0.25,BW,2,U
+328,Avalanche Riders,16,$0.25,R,4,S
+329,Knight of Autumn,16,$1.29,GW,3,R
+330,Haktos the Unscarred,20,$0.25,RW,2,R
+331,Plaguecrafter,13,$0.35,B,3,U
+332,Knight of the Reliquary,23,$1.79,GW,3,R
+333,Rogue Refiner,13,$0.25,UG,3,U
+334,Burning-Tree Emissary,21,$0.35,R,1,U
+335,Dire Tactics,12,$0.25,BW,2,U
+336,Atarka's Command,16,$2.99,RG,2,R
+337,Repel the Abominable,20,$0.25,W,2,U
+338,City of Brass,13,$21.99,V,0,U
+339,Silverquill Command,19,$0.25,BW,4,R
+340,Kitesail Apprentice,19,$0.25,W,1,C
+341,Overgrown Tomb,14,$17.99,V,0,R
+342,Rally the Ranks,15,$0.69,W,2,R
+343,"Kambal, Consul of Allocation",28,$3.49,BW,3,R
+344,"Naban, Dean of Iteration",24,$0.69,U,2,R
+345,Elite Guardmage,15,$0.29,UW,4,U
+346,Verdant Catacombs,17,$32.99,V,0,R
+347,Werewolf Pack Leader,20,$4.99,G,1,R
+348,Snow-Covered Forest,19,$1.29,V,0,C
+349,Voltaic Brawler,15,$0.25,RG,2,U
+350,Banisher Priest,15,$0.25,W,2,U
+351,Hive of the Eye Tyrant,22,$1.99,V,0,R
+352,Reckless Bushwhacker,20,$0.69,R,3,U
+353,Cave of the Frost Dragon,24,$1.99,V,0,R
+354,Lightning Mauler,16,$0.25,R,2,U
+355,"Kalain, Reclusive Painter",25,$0.25,RB,2,U
+356,Krydle of Baldur's Gate,23,$0.25,UB,2,U
+357,Norin the Wary,14,$1.49,R,1,R
+358,Eiganjo Castle,14,$19.99,V,0,R
+359,Retreat to Coralhelm,20,$1.29,U,3,U
+360,"Lavinia, Azorius Renegade",25,$0.79,UW,2,R
+361,Trusted Advisor,15,$0.59,U,1,U
+362,"Dovin, Hand of Control",22,$0.25,W,3,U
+363,Plague Engineer,15,$3.49,B,3,R
+364,Grand Abolisher,15,$21.99,W,1,R
+365,Hope Against Hope,17,$0.25,W,3,U
+366,Oppressive Rays,15,$0.25,W,1,C
+367,Angelic Destiny,15,$6.99,W,3,M
+368,Rally for the Throne,20,$0.25,W,3,U
+369,Orzhov Pontiff,14,$0.79,BW,3,R
+370,"Sorin, Vengeful Bloodlord",25,$1.49,BW,4,R
+371,"Taranika, Akroan Veteran",24,$0.25,W,2,R
+372,"Liliana, Heretical Healer",25,$19.99,B,2,M
+373,Collector Ouphe,15,$5.99,G,2,R
+374,Agadeem's Awakening,19,$21.99,B,1,M
+375,Lavabrink Venturer,18,$0.25,W,3,R
+376,Goblin Guide,12,$8.99,R,1,R
+377,Emeria's Call,13,$1.79,W,5,M
+378,Basri's Lieutenant,18,$0.35,W,4,R
+379,Botanical Sanctum,17,$7.49,V,0,R
+380,Containment Priest,18,$0.35,W,2,R
+381,Nurturing Peatland,18,$14.99,V,0,R
+382,Moorland Haunt,14,$0.69,V,0,R
+383,Phyrexian Revoker,17,$0.99,V,2,R
+384,"Anafenza, the Foremost",22,$1.49,BGW,3,M
+385,Reverent Hoplite,16,$0.25,W,5,U
+386,Eladamri's Call,15,$5.99,GW,2,R
+387,Qasali Pridemage,16,$0.69,GW,2,C
+388,Gavony Township,15,$2.99,V,0,R
+389,Gaddock Teeg,12,$6.49,GW,2,R
+390,Sin Collector,13,$0.25,BW,3,U
+391,Xathrid Necromancer,19,$0.35,B,3,R
+392,Hostage Taker,13,$0.99,UB,4,R
+393,Blightbeetle,12,$0.25,B,2,U
+394,Aven Mindcensor,15,$0.79,W,3,R
+395,Selfless Spirit,15,$8.99,W,2,R
+396,"Jegantha, the Wellspring",24,$1.49,R,5,R
+397,Yixlid Jailer,13,$0.25,B,2,U
+398,Kor Firewalker,14,$0.69,W,1,U
+399,Whirler Rogue,13,$0.25,U,3,U
+400,Stony Silence,13,$6.49,W,2,R
+401,Remorseful Cleric,17,$1.29,W,2,R
+402,Burrenton Forge-Tender,22,$0.25,W,1,U
+403,Abrupt Decay,12,$6.49,BG,2,R
+404,Spatial Contortion,18,$0.39,V,1,U
+405,Leonin Arbiter,14,$4.99,W,2,R
+406,Celestial Purge,15,$0.25,W,2,U
+407,Eidolon of Rhetoric,19,$1.29,W,3,U
+408,Vithian Renegades,17,$0.25,RG,3,U
+409,Cursed Totem,12,$0.69,V,2,R
+410,Fiendslayer Paladin,19,$0.69,W,2,R
+411,Riders of Gavony,16,$0.35,W,3,R
+412,Loaming Shaman,14,$0.25,G,3,R
+413,Foundation Breaker,18,$0.79,G,4,U
+414,"Yorion, Sky Nomad",17,$3.99,W,4,R
+415,Reclamation Sage,16,$0.29,G,3,U
+416,Sorcerous Spyglass,18,$0.25,V,2,R
+417,Fiend Hunter,12,$0.25,W,2,U
+418,"Yawgmoth, Thran Physician",25,$18.99,B,3,M
+419,Fragmentize,11,$0.25,W,1,C
+420,Liliana of the Veil,19,$89.99,B,2,M
+421,Geist of Saint Traft,20,$2.99,UW,3,M
+422,Rest for the Weary,18,$0.25,W,2,C
+423,"Oko, Thief of Crowns",20,$16.99,UG,3,M
+424,Leonin Relic-Warder,19,$0.29,W,1,U
+425,Elite Inquisitor,16,$0.29,W,1,R
+426,Vanishing Verse,15,$2.99,BW,2,R
+427,Runed Halo,10,$0.25,W,1,R
+428,Deafening Silence,17,$0.69,W,1,U
+429,Apostle of Purifying Light,26,$0.25,W,2,U
+430,Boros Charm,11,$1.99,RW,2,U
+431,"Kari Zev, Skyship Raider",24,$0.39,R,2,R
+432,Idol of Endurance,17,$0.25,W,3,R
+433,Deflecting Palm,15,$0.99,RW,2,R
+434,Choke,5,$4.49,G,3,U
+435,Master of the Wild Hunt,23,$11.99,G,3,M
+436,Isareth the Awakener,20,$0.35,B,2,R
+437,Sower of Temptation,19,$4.49,U,3,R
+438,Scavenging Ooze,15,$1.29,G,2,R
+439,Tormentor Exarch,16,$0.25,R,4,U
+440,Combat Celebrant,16,$14.99,R,3,M
+441,Wilt-Leaf Liege,15,$2.29,G,2,R
+442,Fulminator Mage,15,$1.99,B,2,R
+443,Faerie Macabre,14,$1.49,B,2,C
+444,Destructive Revelry,19,$0.25,RG,2,U
+445,Worship,7,$0.69,W,4,R
+446,"Vivien, Champion of the Wilds",29,$2.79,G,3,R
+447,Gaea's Blessing,15,$0.35,G,2,U
+448,Spirit of the Labyrinth,23,$2.99,W,2,R
+449,Archon of Emeria,16,$1.99,W,3,R
+450,Anguished Unmaking,18,$9.99,BW,3,R
+451,Dire Fleet Poisoner,19,$1.29,B,2,R
+452,"Gideon, Ally of Zendikar",24,$5.99,W,3,M
+453,Force of Virtue,15,$0.39,W,3,R
+454,Huntmaster of the Fells,23,$25.99,RG,4,M
+455,"Kira, Great Glass-Spinner",25,$5.99,U,2,R
+456,Winds of Abandon,16,$3.99,W,2,R
+457,Bloodbraid Elf,14,$1.29,RG,4,U
+458,"Kroxa, Titan of Death's Hunger",30,$29.99,RB,2,M
+459,Tireless Tracker,16,$11.99,G,3,R
+460,"Klothys, God of Destiny",23,$14.99,RG,3,M
+461,Ignoble Hierarch,16,$8.49,G,1,R
+462,Fatal Push,10,$3.49,B,1,U
+463,Assassin's Trophy,17,$17.99,BG,2,R
+464,Terminate,9,$0.79,RB,2,C
+465,Inquisition of Kozilek,22,$3.99,B,1,R
+466,Thoughtseize,12,$17.99,B,1,R
+467,Maelstrom Pulse,15,$1.99,BG,3,R
+468,Wrenn and Six,13,$109.99,RG,2,M
+469,Blackcleave Cliffs,18,$47.99,V,0,R
+470,Raging Ravine,13,$2.49,V,0,R
+471,Barren Moor,11,$0.25,V,0,C
+472,Blooming Marsh,14,$11.99,V,0,R
+473,Snow-Covered Swamp,18,$1.29,V,0,C
+474,Grim Flayer,11,$4.99,BG,2,M
+475,Dauthi Voidwalker,17,$9.99,B,1,R
+476,Unearth,7,$0.29,B,1,C
+477,Hexdrinker,10,$16.99,G,1,M
+478,Scourge of the Skyclaves,24,$8.99,B,2,M
+479,Dreadbore,9,$1.79,RB,2,R
+480,Collective Brutality,20,$7.49,B,2,R
+481,Tranquil Thicket,16,$0.25,V,0,C
+482,Arcum's Astrolabe,17,$0.25,V,0,C
+483,Bloodchief's Thirst,19,$0.49,B,1,U
+484,Traverse the Ulvenwald,22,$2.29,G,1,R
+485,Treetop Village,15,$0.25,V,0,U
+486,"Liliana, the Last Hope",22,$27.99,B,2,M
+487,Cling to Dust,13,$0.39,B,1,U
+488,Smallpox,8,$0.35,B,1,U
+489,Murderous Rider,15,$2.99,B,2,R
+490,"Vraska, Golgari Queen",21,$5.49,BG,4,M
+491,Canyon Slough,13,$3.99,V,0,R
+492,Gilded Goose,12,$2.99,G,1,R
+493,"Valki, God of Lies",18,$24.99,RB,3,M
+494,Once Upon a Time,16,$1.49,G,2,R
+495,Satyr Wayfinder,15,$0.25,G,2,C
+496,Abundant Harvest,16,$0.25,G,1,R
+497,Castle Locthwain,16,$5.49,V,0,R
+498,Graven Cairns,13,$6.99,V,0,R
+499,Goblin Rabblemaster,19,$3.99,R,3,R
+500,"Tourach, Dread Cantor",21,$3.49,B,2,M
+501,"Uro, Titan of Nature's Wrath",28,$18.99,UG,3,M
+502,Sheltered Thicket,17,$3.99,V,0,R
+503,Angrath's Rampage,17,$0.35,RB,2,U
+504,Hour of Promise,15,$1.29,G,5,R
+505,Cut/Ribbons,11,$0.49,R,2,R
+506,Liliana's Triumph,17,$0.25,B,2,U
+507,Lightning Skelemental,21,$1.49,RB,2,R
+508,Copperline Gorge,16,$11.99,V,0,R
+509,Twilight Mire,13,$14.99,V,0,R
+510,Field of Ruin,13,$0.49,V,0,U
+511,Courser of Kruphix,18,$4.99,G,2,R
+512,Endurance,9,$34.99,G,2,M
+513,Dragonskull Summit,18,$4.49,V,0,R
+514,Zagoth Triome,13,$17.99,V,0,R
+515,Smoldering Marsh,16,$2.49,V,0,R
+516,Field of the Dead,17,$17.99,V,0,R
+517,"Karn, the Great Creator",23,$11.99,V,4,R
+518,"Rankle, Master of Pranks",24,$6.99,B,3,M
+519,"Kalitas, Traitor of Ghet",24,$17.99,B,3,M
+520,"Chevill, Bane of Monsters",25,$2.29,BG,2,M
+521,Verdant Confluence,18,$1.79,G,5,R
+522,Valakut Awakening,17,$7.49,R,3,R
+523,Inscription of Ruin,19,$0.25,B,3,R
+524,Questing Beast,14,$12.99,G,3,M
+525,Rootbound Crag,14,$4.99,V,0,R
+526,Lair of the Hydra,17,$3.99,V,0,R
+527,Raven's Crime,13,$1.29,B,1,C
+528,Vexing Devil,12,$5.99,R,1,R
+529,Tectonic Edge,13,$0.49,V,0,U
+530,Merchant of the Vale,20,$0.25,R,3,C
+531,Ketria Triome,13,$15.99,V,0,R
+532,Eliminate,9,$0.25,B,2,U
+533,Altar of Dementia,17,$5.99,V,2,R
+534,Cathartic Reunion,17,$0.25,R,2,C
+535,Vengevine,9,$12.99,G,3,M
+536,Lotleth Troll,13,$0.35,BG,2,R
+537,Gravecrawler,12,$11.99,B,1,R
+538,Blazing Rootwalla,17,$0.25,R,1,U
+539,Madcap Experiment,17,$0.35,R,4,R
+540,Stitcher's Supplier,19,$5.49,B,1,U
+541,Territorial Kavu,16,$0.35,RG,2,R
+542,Utopia Sprawl,13,$9.99,G,1,C
+543,Goblin Dark-Dwellers,20,$0.29,R,4,R
+544,Wild Nacatl,11,$0.25,G,1,C
+545,Bojuka Bog,10,$1.29,V,0,C
+546,Tribal Flames,13,$0.25,R,2,C
+547,"Urborg, Tomb of Yawgmoth",24,$27.99,V,0,M
+548,Kitchen Finks,13,$0.59,G,2,U
+549,Storm Herald,12,$0.25,R,3,R
+550,Street Wraith,13,$2.79,B,4,U
+551,Eldrazi Conscription,20,$16.99,V,8,R
+552,Woodland Cemetery,17,$7.99,V,0,R
+553,Stinkweed Imp,13,$0.99,B,3,C
+554,Darkblast,9,$0.39,B,1,U
+555,Olivia Voldaren,15,$8.99,RB,4,M
+556,Elvish Reclaimer,16,$5.99,G,1,R
+557,Obstinate Baloth,16,$0.35,G,3,R
+558,"Chandra, Acolyte of Flame",25,$0.99,R,2,R
+559,"Tasigur, the Golden Fang",24,$0.35,B,6,R
+560,Hooting Mandrills,17,$0.25,G,6,C
+561,Liquimetal Coating,18,$0.69,V,2,U
+562,Whispers of Emrakul,19,$0.25,B,2,U
+563,Westvale Abbey,14,$6.99,V,0,R
+564,Dead Weight,11,$0.25,B,1,C
+565,Thrill of Possibility,21,$0.25,R,2,C
+566,Bloodghast,10,$14.99,B,1,R
+567,Carth the Lion,14,$0.35,BG,4,R
+568,Life from the Loam,18,$16.99,G,2,R
+569,Knight of the Ebon Legion,25,$2.49,B,1,R
+570,Damnation,9,$27.99,B,3,S
+571,Witherbloom Command,19,$0.69,BG,2,R
+572,Goblin Engineer,15,$2.49,R,2,R
+573,Ajani Vengeant,14,$2.99,RW,4,M
+574,Claim/Fame,10,$0.25,B,1,U
+575,Platinum Emperion,17,$18.99,V,8,M
+576,Nissa of Shadowed Boughs,24,$2.79,BG,4,M
+577,Go for the Throat,17,$3.49,B,2,U
+578,Arbor Elf,9,$0.99,G,1,C
+579,Birds of Paradise,17,$13.99,G,1,R
+580,Boil,4,$1.49,R,4,U
+581,Turntimber Symbiosis,20,$3.99,G,5,M
+582,Ghor-Clan Rampager,18,$0.25,RG,4,U
+583,Necrogen Spellbomb,18,$0.25,V,1,C
+584,Drown in the Loch,17,$3.99,UB,2,U
+585,Ox of Agonas,12,$6.99,R,4,M
+586,"Nissa, Vital Force",18,$8.49,G,4,M
+587,"Radha, Heart of Keld",20,$2.29,RG,3,R
+588,Boom/Bust,9,$0.59,R,2,R
+589,Esika's Chariot,15,$2.79,G,4,R
+590,Golgari Rot Farm,16,$0.25,V,0,C
+591,Scrapheap Scrounger,19,$0.35,V,2,R
+592,Executioner's Capsule,21,$0.25,B,1,C
+593,Den of the Bugbear,18,$4.99,V,0,R
+594,Ob Nixilis Reignited,20,$0.69,B,4,M
+595,Sedgemoor Witch,15,$4.99,B,3,R
+596,Thundermaw Hellkite,19,$5.99,R,4,M
+597,Witch's Cottage,15,$0.35,V,0,C
+598,Kessig Wolf Run,15,$2.99,V,0,M
+599,Kher Keep,9,$0.49,V,0,R
+600,Vraska the Unseen,17,$0.79,BG,5,M
+601,Elder Gargaroth,15,$17.99,G,4,M
+602,Shriekmaw,9,$0.25,B,5,U
+603,Rotting Regisaur,16,$2.29,B,3,R
+604,Experiment One,14,$0.79,G,1,U
+605,"Thrun, the Last Troll",21,$3.99,G,3,M
+606,Devastating Summons,19,$0.35,R,1,R
+607,Death's Shadow,14,$6.99,B,1,R
+608,Vindicate,9,$1.99,BW,3,R
+609,Desecration Demon,17,$0.69,B,3,R
+610,Weather the Storm,17,$0.25,G,2,C
+611,Force of Vigor,14,$24.99,G,3,R
+612,Stone Rain,10,$0.25,R,3,C
+613,Unravel the Aether,18,$0.69,G,2,U
+614,Necromentia,11,$0.25,B,2,R
+615,Seal of Primordium,18,$0.25,G,2,C
+616,Duress,6,$0.25,B,1,C
+617,Deglamer,8,$0.69,G,2,C
+618,Crime/Punishment,16,$3.99,BG,2,R
+619,Obsidian Charmaw,16,$0.35,R,4,R
+620,Nature's Claim,14,$0.79,G,1,C
+621,Golgari Charm,13,$1.29,BG,2,U
+622,Crumble to Dust,15,$0.35,R,4,U
+623,Cindervines,11,$1.99,RG,2,R
+624,Cast Down,9,$0.49,B,2,U
+625,Rain of Gore,12,$8.49,RB,2,R
+626,Extirpate,9,$0.69,B,1,R
+627,Flunk,5,$0.25,B,2,U
+628,Noxious Grasp,13,$0.25,B,2,U
+629,Go Blank,8,$0.25,B,3,U
+630,Bitterblossom,13,$49.99,B,2,M
+631,Boiling Seas,12,$0.59,R,4,U
+632,Infinite Obliteration,21,$0.35,B,2,R
+633,Culling Ritual,14,$3.99,BG,4,R
+634,"Angrath, the Flame-Chained",26,$7.99,RB,5,M
+635,"Ashiok, Nightmare Muse",22,$5.99,UB,5,M
+636,Slaughter Games,15,$0.35,RB,4,R
+637,Verdant Command,15,$0.59,G,2,R
+638,Break the Ice,13,$0.25,B,1,U
+639,Bontu's Last Reckoning,22,$2.29,B,2,R
+640,Pulse of Murasa,15,$0.25,G,3,U
+641,Shivan Fire,11,$0.25,R,1,C
+642,Chameleon Colossus,18,$0.99,G,3,R
+643,Dead of Winter,14,$0.99,B,3,R
+644,Lost Legacy,11,$0.25,B,2,R
+645,Fracturing Gust,15,$7.99,G,3,M
+646,Doom Blade,10,$0.25,B,2,U
+647,Vulshok Refugee,15,$0.25,R,2,U
+648,Languish,8,$0.79,B,3,R
+649,Back to Nature,14,$0.29,G,2,U
+650,Flaying Tendrils,16,$0.25,B,2,U
+651,Feed the Clan,13,$0.25,G,2,C
+652,Infernal Reckoning,18,$0.25,B,1,R
+653,Creeping Corrosion,18,$0.79,G,3,R
+654,Guise of Fire,13,$0.25,R,1,C
+655,Wurmcoil Engine,15,$17.99,V,6,M
+656,Firespout,9,$0.69,R,3,M
+657,"Grakmaw, Skyclave Ravager",25,$0.25,BG,3,R
+658,Thragtusk,9,$0.35,G,5,R
+659,Rakdos Charm,12,$0.39,RB,2,U
+660,Ingot Chewer,12,$0.25,R,5,C
+661,Life's Legacy,13,$3.99,G,2,R
+662,Vampiric Link,13,$0.59,B,1,C
+663,Oxidda Scrapmelter,18,$0.25,R,4,U
+664,Ray of Revelation,17,$0.25,W,2,C
+665,Sudden Shock,12,$0.25,R,2,U
+666,Extinction Event,16,$1.29,B,4,R
+667,Collective Defiance,19,$1.49,R,2,R
+668,Damping Matrix,14,$0.35,V,3,R
+669,Shatter Assumptions,19,$0.25,B,2,U
+670,Sever the Bloodline,19,$0.35,B,4,R
+671,Embercleave,11,$7.49,R,5,M
+672,Jund Charm,10,$0.25,RBG,3,U
+673,Riddlemaster Sphinx,19,$0.29,U,5,R
+674,Barrier Breach,14,$0.25,G,3,U
+675,Arasta of the Endless Web,25,$0.79,G,3,R
+676,Yahenni's Expertise,19,$0.35,B,3,R
+677,Vexing Shusher,14,$4.49,R,1,R
+678,Urza's Mine,11,$0.69,V,0,C
+679,Domri Rade,10,$2.99,RG,3,M
+680,Force of Despair,16,$1.79,B,2,R
+681,Ensnaring Bridge,16,$23.99,V,3,R
+682,Walking Ballista,16,$20.99,V,0,R
+683,Return to Nature,16,$0.25,G,2,C
+684,Night of Souls' Betrayal,24,$0.35,B,3,R
+685,Cry of the Carnarium,20,$0.25,B,2,U
+686,Carnage Tyrant,14,$11.99,G,5,M
+687,Grafted Exoskeleton,19,$5.99,V,4,U
+688,Life Goes On,12,$0.25,G,1,C
+689,Spreading Algae,15,$0.25,G,1,U
+690,Deprive,7,$0.79,U,1,C
+691,Mystic Sanctuary,16,$0.79,V,0,C
+692,Pteramander,11,$0.25,U,1,U
+693,Brineborn Cutthroat,19,$0.25,U,2,U
+694,Faerie Conclave,15,$0.49,V,0,U
+695,Ascendant Spirit,16,$0.25,U,1,R
+696,Wizard's Retort,15,$0.29,U,2,U
+697,Ionize,6,$0.99,UR,3,R
+698,"Teferi, Time Raveler",20,$16.99,UW,3,R
+699,Panoptic Mirror,15,$4.49,V,5,R
+700,"Narset, Parter of Veils",23,$1.29,U,2,U
+701,Wandering Fumarole,18,$0.99,V,0,R
+702,Through the Breach,18,$2.99,R,5,R
+703,Ghitu Lavarunner,16,$0.25,R,1,C
+704,Volatile Fjord,14,$1.29,V,0,U
+705,"Gadwick, the Wizened",20,$0.79,U,1,R
+706,Chart a Course,14,$0.35,U,2,U
+707,Isochron Scepter,16,$10.99,V,2,U
+708,Suspend,7,$0.49,U,1,R
+709,Entrancing Melody,17,$0.35,U,1,R
+710,Ancestral Vision,16,$4.49,V,0,R
+711,"Saheeli, Sublime Artificer",26,$0.69,U,2,U
+712,Pia and Kiran Nalaar,20,$0.25,R,3,R
+713,Invasive Surgery,16,$0.25,U,1,U
+714,Roast,5,$0.25,R,2,U
+715,Beacon Bolt,11,$0.25,UR,3,U
+716,Natural State,13,$0.25,G,1,C
+717,Into the Story,14,$0.69,U,6,U
+718,Flame Blitz,11,$0.25,R,1,U
+719,"Keranos, God of Storms",22,$8.49,UR,5,M
+720,Jace's Defeat,13,$0.25,U,2,U
+721,Clout of the Dominus,20,$0.59,U,1,C
+722,Magnetic Theft,14,$4.99,R,1,U
+723,Ratchet Bomb,12,$0.79,V,2,R
+724,Firemind's Research,19,$0.35,UR,2,R
+725,Annul,5,$0.25,U,1,C
+726,Rending Volley,14,$0.25,R,1,U
+727,Mental Misstep,14,$6.49,U,1,U
+728,Flame Sweep,11,$0.25,R,3,U
+729,Fact or Fiction,15,$0.25,U,4,U
+730,Boomerang,9,$0.25,U,1,C
+731,"Jace, Vryn's Prodigy",20,$17.99,U,2,M
+732,Release the Gremlins,20,$0.29,R,1,R
+733,Blazing Volley,14,$0.25,R,1,C
+734,Vandalblast,11,$4.99,R,1,U
+735,Primeval Titan,14,$7.99,G,5,M
+736,Dryad of the Ilysian Grove,26,$17.99,G,3,R
+737,"Azusa, Lost but Seeking",23,$8.99,G,3,R
+738,Sakura-Tribe Scout,18,$4.99,G,1,C
+739,Arboreal Grazer,15,$0.25,G,1,C
+740,Sakura-Tribe Elder,18,$1.29,G,2,C
+741,Summoner's Pact,15,$3.99,V,0,R
+742,Explore,7,$0.25,G,2,C
+743,Ancient Stirrings,17,$0.29,G,1,U
+744,Search for Tomorrow,19,$0.29,G,3,C
+745,Urza's Saga,11,$29.99,V,0,R
+746,Amulet of Vigor,15,$29.99,V,1,R
+747,Simic Growth Chamber,20,$0.25,V,0,C
+748,Castle Garenbrig,16,$5.99,V,0,R
+749,Tolaria West,12,$1.99,V,0,M
+750,Gruul Turf,10,$0.25,V,0,U
+751,"Valakut, the Molten Pinnacle",28,$29.99,V,0,R
+752,Selesnya Sanctuary,18,$0.25,V,0,C
+753,Vesuva,6,$11.99,V,0,M
+754,Radiant Fountain,16,$0.25,V,0,C
+755,Boros Garrison,14,$0.25,V,0,C
+756,Slayers' Stronghold,19,$0.35,V,0,R
+757,"Sunhome, Fortress of the Legion",31,$0.25,V,0,U
+758,Hanweir Battlements,19,$4.49,V,0,R
+759,Crumbling Vestige,17,$0.25,V,0,C
+760,Khalni Garden,13,$0.25,V,0,C
+761,Blast Zone,10,$4.49,V,0,R
+762,Expedition Map,14,$2.29,V,1,U
+763,Fierce Empath,13,$0.25,G,3,C
+764,Adventurous Impulse,19,$0.25,G,1,C
+765,Coalition Relic,15,$1.79,V,3,R
+766,"Golos, Tireless Pilgrim",23,$8.49,V,5,R
+767,Primal Command,14,$1.49,G,4,R
+768,Kabira Crossroads,17,$0.25,V,0,C
+769,Simian Spirit Guide,19,$0.25,R,3,U
+770,Hive Mind,9,$4.49,U,6,R
+771,"Yavimaya, Cradle of Growth",26,$12.99,V,0,R
+772,Trinket Mage,12,$0.25,U,3,C
+773,Grove of the Burnwillows,24,$5.99,V,0,M
+774,Field Trip,10,$0.25,G,3,C
+775,Hydroid Krasis,14,$14.99,UG,2,M
+776,Heartless Summoning,19,$3.99,B,2,R
+777,Skyshroud Ranger,16,$0.59,G,1,C
+778,Manglehorn,10,$0.49,G,3,U
+779,The Gitrog Monster,18,$5.99,BG,5,M
+780,"Zacama, Primal Calamity",23,$39.99,RGW,9,M
+781,Dread Presence,14,$1.79,B,4,R
+782,Escape to the Wilds,19,$0.69,RG,5,R
+783,Prismatic Omen,14,$29.99,G,2,R
+784,Gretchen Titchwillow,20,$0.25,UG,2,U
+785,Lotus Field,11,$5.99,V,0,R
+786,Vesuvan Doppelganger,20,$44.99,U,4,R
+787,Lotus Bloom,11,$1.99,V,0,R
+788,Unmarked Grave,14,$3.99,B,2,R
+789,Commune with the Gods,21,$0.25,G,2,C
+790,Persist,7,$2.49,B,2,R
+791,Oracle of Mul Daya,18,$24.99,G,4,R
+792,Elvish Rejuvenator,18,$0.25,G,3,C
+793,Sylvok Explorer,15,$0.25,G,2,C
+794,"Tatyova, Benthic Druid",22,$2.49,UG,5,U
+795,Kazandu Mammoth,15,$0.25,G,2,R
+796,Mwonvuli Acid-Moss,18,$0.69,G,3,C
+797,Academy Ruins,13,$9.99,V,0,R
+798,Hornet Queen,12,$0.35,G,5,R
+799,Chromatic Sphere,16,$1.49,V,1,U
+800,Craterhoof Behemoth,19,$57.99,G,6,M
+801,Eldritch Evolution,18,$7.99,G,2,R
+802,Slaughter Pact,14,$0.99,V,0,R
+803,Froghemoth,10,$0.99,G,4,R
+804,Farseek,7,$2.79,G,2,C
+805,Cascading Cataracts,19,$5.99,V,0,R
+806,Teetering Peaks,15,$0.25,V,0,C
+807,Allosaurus Rider,16,$0.69,G,6,R
+808,Ramunap Excavator,17,$4.99,G,3,R
+809,Dragonlord Atarka,17,$12.99,RG,7,M
+810,Beanstalk Giant,15,$0.25,G,7,U
+811,Oran-Rief Hydra,15,$0.35,G,5,R
+812,Oath of Nissa,13,$2.29,G,1,R
+813,Wargate,7,$3.99,UGW,3,R
+814,Springbloom Druid,17,$0.25,G,3,C
+815,Gemstone Caverns,16,$34.99,V,0,R
+816,Bone Shards,11,$0.25,B,1,C
+817,Tireless Provisioner,20,$1.99,G,3,U
+818,Yavimaya Coast,14,$0.99,V,0,R
+819,Sunhome Enforcer,16,$0.25,RW,4,U
+820,Temple of Mystery,17,$0.69,V,0,R
+821,Wood Elves,10,$0.69,G,3,C
+822,Bloodhusk Ritualist,19,$0.25,B,3,U
+823,Memorial to Unity,17,$0.25,V,0,U
+824,Dimir Aqueduct,14,$0.25,V,0,U
+825,Beast Within,12,$1.79,G,3,U
+826,Thespian's Stage,16,$1.49,V,0,R
+827,Shared Summons,14,$3.49,G,4,R
+828,Sejiri Steppe,13,$0.25,V,0,C
+829,Dragonlord Dromoka,18,$42.99,GW,6,M
+830,The Underworld Cookbook,23,$0.59,V,1,U
+831,Lumbering Falls,15,$0.25,V,0,R
+832,Sylvan Scrying,14,$0.79,G,2,U
+833,Temple of Malady,16,$0.79,V,0,R
+834,Wayward Swordtooth,18,$12.99,G,3,R
+835,Verdurous Gearhulk,18,$1.49,G,4,M
+836,"Skysovereign, Consul Flagship",29,$2.49,V,5,M
+837,Griselbrand,11,$17.99,B,5,M
+838,Hanweir Garrison,16,$2.99,R,3,R
+839,Canopy Vista,12,$2.99,V,0,R
+840,Scattered Groves,16,$4.99,V,0,R
+841,Tangled Florahedron,19,$0.99,G,2,U
+842,Temple of Abandon,17,$1.49,V,0,R
+843,Littjara Mirrorlake,19,$0.25,V,0,U
+844,Mortuary Mire,13,$0.25,V,0,C
+845,Tendo Ice Bridge,16,$2.29,V,0,R
+846,Garruk Wildspeaker,18,$7.99,G,3,M
+847,Gruul Charm,11,$0.25,RG,2,U
+848,Solemn Simulacrum,17,$1.29,V,4,R
+849,"Ruric Thar, the Unbowed",23,$0.69,RG,6,R
+850,Mycosynth Lattice,17,$37.99,V,6,M
+851,Mystic Repeal,13,$0.25,G,1,U
+852,Memoricide,10,$0.35,B,4,R
+853,Crucible of Worlds,18,$44.99,V,3,M
+854,Run Afoul,9,$0.25,G,1,C
+855,Cranial Extraction,18,$0.35,B,4,R
+856,"Emrakul, the Promised End",25,$44.99,V,13,M
+857,Batterskull,11,$12.99,V,5,M
+858,Swan Song,9,$14.99,U,1,R
+859,Guttural Response,17,$0.49,R,1,U
+860,Wastes,6,$0.99,V,0,B
+861,Broken Wings,12,$0.25,G,3,C
+862,Darksteel Citadel,17,$0.35,V,0,U
+863,Wilt,4,$0.29,G,2,C
+864,"Melira, Sylvok Outcast",22,$5.49,G,2,R
+865,Spine of Ish Sah,16,$0.35,V,7,R
+866,"Ulamog, the Infinite Gyre",25,$64.99,V,11,M
+867,Deicide,7,$0.35,W,2,R
+868,Thought Distortion,18,$0.25,B,5,U
+869,Basic Conjuration,17,$0.25,G,2,R
+870,"Linvala, Keeper of Silence",26,$19.99,W,3,M
+871,Containment Breach,18,$0.25,G,3,U
+872,Fleetwheel Cruiser,18,$0.29,V,4,R
+873,Terastodon,10,$0.49,G,7,R
+874,"Sigarda, Host of Herons",23,$13.99,GW,4,M
+875,Oblivion Stone,14,$3.49,V,3,R
+876,Mascot Exhibition,17,$1.99,V,7,M
+877,World Breaker,13,$3.49,G,7,M
+878,Thorn of Amethyst,17,$29.99,V,2,R
+879,"Boseiju, Who Shelters All",25,$34.99,V,0,R
+880,Radiant Flames,14,$0.25,R,3,R
+881,Feldon's Cane,13,$0.25,V,1,U
+882,Pest Summoning,14,$0.25,B,2,C
+883,Trinisphere,11,$22.99,V,3,R
+884,Lodestone Golem,15,$2.29,V,4,R
+885,Mindslaver,10,$6.99,V,6,R
+886,Deep Forest Hermit,18,$2.29,G,4,R
+887,Bonfire of the Damned,21,$2.49,R,1,M
+888,Mindbreak Trap,14,$24.99,U,3,M
+889,Suppression Field,17,$2.99,W,2,U
+890,Sporeweb Weaver,15,$0.25,G,3,R
+891,Masked Vandal,13,$0.35,G,2,C
+892,Krosan Grip,11,$0.39,G,3,U
+893,Hour of Devastation,19,$0.99,R,4,R
+894,Unmoored Ego,12,$0.35,UB,3,R
+895,Dissenter's Deliverance,23,$0.25,G,2,C
+896,Felidar Retreat,15,$2.99,W,4,R
+897,Ramunap Ruins,13,$0.29,V,0,U
+898,Acidic Slime,12,$0.25,G,4,U
+899,Fog,3,$0.25,G,1,C
+900,Woodfall Primus,15,$3.49,G,6,R
+901,Witchbane Orb,13,$0.69,V,4,R
+902,Grave Titan,11,$7.49,B,5,M
+903,Sundering Titan,15,$0.69,V,8,R
+904,Serra's Emissary,16,$3.49,W,5,M
+905,Luminous Broodmoth,18,$10.99,W,3,M
+906,Introduction to Annihilation,28,$0.25,V,5,C
+907,Consulate Crackdown,19,$0.35,W,4,R
+908,You Find a Cursed Idol,22,$0.25,G,2,C
+909,Cataclysmic Gearhulk,20,$0.79,W,4,M
+910,Sentinel Totem,14,$0.25,V,1,U
+911,Endure,6,$0.25,W,4,U
+912,Shifting Ceratops,17,$0.35,G,3,R
+913,"Yasharn, Implacable Earth",25,$0.79,GW,4,R
+914,Inscription of Abundance,24,$0.99,G,2,R
+915,Environmental Sciences,22,$0.25,V,2,C
+916,"Omnath, Locus of Creation",25,$16.99,URGW,4,M
+917,Generous Gift,13,$1.99,W,3,U
+918,Phyrexian Metamorph,19,$5.99,U,4,R
+919,"Ulamog, the Ceaseless Hunger",28,$74.99,V,10,M
+920,Tireless Tribe,14,$0.25,W,1,C
+921,Sphinx of the Final Word,24,$1.99,U,6,M
+922,Decimator Web,13,$0.35,V,4,R
+923,Quagnoth,8,$0.35,G,6,R
+924,Elixir of Immortality,21,$0.69,V,1,U
+925,Surrak Dragonclaw,17,$3.49,URG,5,M
+926,Prized Amalgam,14,$1.49,UB,3,R
+927,Narcomoeba,10,$0.35,U,2,U
+928,Golgari Thug,12,$0.79,B,2,U
+929,Silversmote Ghoul,17,$0.25,B,3,U
+930,Insolent Neonate,16,$0.25,R,1,C
+931,Hedron Crab,11,$10.99,U,1,U
+932,Creeping Chill,14,$0.39,B,4,U
+933,Conflagrate,11,$0.25,R,1,U
+934,Thrilling Discovery,19,$0.25,RW,2,C
+935,Tome Scour,10,$0.25,U,1,C
+936,Smiting Helix,13,$0.25,B,4,U
+937,Burning Inquiry,15,$5.99,R,1,C
+938,Shriekhorn,10,$0.25,V,1,C
+939,Dakmor Salvage,14,$0.99,V,0,U
+940,Lonely Sandbar,14,$0.25,V,0,C
+941,Glimpse the Unthinkable,23,$11.99,UB,2,R
+942,Tormenting Voice,16,$0.25,R,2,C
+943,Dangerous Wager,15,$0.25,R,2,C
+944,Battlefield Forge,17,$1.49,V,0,R
+945,Haunted Dead,12,$0.25,B,4,U
+946,Furycalm Snarl,14,$2.79,V,0,R
+947,Cragcrown Pathway,17,$4.99,V,0,R
+948,Crippling Chill,15,$0.25,U,3,C
+949,"Hogaak, Arisen Necropolis",25,$0.69,B,6,R
+950,Evolving Wilds,14,$0.25,V,0,C
+951,Llanowar Wastes,15,$0.99,V,0,R
+952,Terramorphic Expanse,20,$0.25,V,0,C
+953,Desperate Ravings,17,$0.25,R,2,U
+954,Lightning Axe,13,$0.25,R,1,U
+955,Scourge Devil,13,$0.25,R,5,U
+956,Dryad Arbor,11,$3.99,V,0,M
+957,Hissing Quagmire,16,$1.99,V,0,R
+958,Spikefield Hazard,17,$0.39,R,1,U
+959,Radical Idea,12,$0.25,U,2,C
+960,Sudden Edict,12,$0.25,B,2,U
+961,Failure/Comply,14,$0.35,W,1,R
+962,Stain the Mind,14,$0.25,B,5,R
+963,Vengeful Pharaoh,16,$3.49,B,3,R
+964,Gnaw to the Bone,16,$0.25,G,3,C
+965,Cabal Therapist,15,$0.35,B,1,R
+966,Driven/Despair,14,$0.69,B,2,R
+967,Embereth Shieldbreaker,22,$0.25,R,2,U
+968,Finale of Devastation,21,$54.99,G,1,M
+969,Memory's Journey,16,$0.29,U,2,U
+970,Lightning Strike,16,$0.25,R,2,U
+971,Silent Gravestone,17,$0.35,V,1,R
+972,Hope of Ghirapur,16,$2.49,V,1,R
+973,Eidolon of the Great Revel,26,$13.99,R,1,R
+974,Thassa's Oracle,15,$9.49,U,1,R
+975,Blood Sun,9,$0.69,R,3,R
+976,Boggart Shenanigans,19,$2.29,R,3,U
+977,Scarab Feast,12,$0.25,B,1,C
+978,Defense Grid,12,$22.99,V,2,R
+979,Desecrated Tomb,15,$0.79,V,3,R
+980,Ruin Crab,9,$1.29,U,1,U
+981,Jace's Phantasm,15,$0.49,U,1,U
+982,Manic Scribe,12,$0.35,U,2,U
+983,Archive Trap,12,$44.99,U,4,R
+984,Visions of Beyond,17,$11.99,U,1,R
+985,Crypt Incursion,15,$0.59,B,3,C
+986,Mission Briefing,16,$0.99,U,1,R
+987,Maddening Cacophony,19,$4.49,U,2,R
+988,Fractured Sanity,16,$1.49,U,1,R
+989,Tasha's Hideous Laughter,24,$8.99,U,2,R
+990,Scheming Symmetry,17,$7.99,B,1,R
+991,Fraying Sanity,14,$6.49,U,3,R
+992,Mesmeric Orb,12,$9.49,V,2,R
+993,Darkslick Shores,16,$29.99,V,0,R
+994,"Oboro, Palace in the Clouds",27,$94.99,V,0,R
+995,Shelldock Isle,14,$12.99,V,0,R
+996,"Mikokoro, Center of the Sea",27,$0.99,V,0,R
+997,Trapmaker's Snare,17,$0.25,U,2,U
+998,Breaking/Entering,17,$0.35,RB,6,R
+999,Thieves' Guild Enforcer,23,$1.29,B,1,R
+1000,Vantress Gargoyle,17,$0.25,U,2,R
+1001,Drowned Catacomb,16,$5.49,V,0,R
+1002,Mind Funeral,12,$2.49,UB,3,U
+1003,Murderous Cut,13,$0.29,B,5,U
+1004,Darkness,8,$23.99,B,1,C
+1005,Underground River,17,$11.99,V,0,R
+1006,Clearwater Pathway,18,$7.99,V,0,R
+1007,Merfolk Secretkeeper,20,$0.25,U,1,C
+1008,"Ashiok, Nightmare Weaver",24,$4.99,UB,3,M
+1009,Profane Memento,15,$1.99,V,1,U
+1010,Moment of Craving,17,$0.25,B,2,C
+1011,Dream Twist,11,$0.25,U,1,C
+1012,Set Adrift,10,$0.25,U,6,U
+1013,Winds of Rebuke,15,$0.25,U,2,C
+1014,Sunken Hollow,13,$1.49,V,0,R
+1015,Invisible Stalker,17,$0.49,U,2,U
+1016,Ipnu Rivulet,12,$0.25,V,0,U
+1017,Sanity Grinding,15,$9.49,U,1,R
+1018,Soaring Thought-Thief,21,$0.25,UB,2,U
+1019,Frantic Inventory,17,$0.25,U,2,C
+1020,Baleful Mastery,15,$2.29,B,4,R
+1021,Kaya's Guile,12,$6.99,BW,3,R
+1022,Devastation Tide,16,$2.29,U,4,R
+1023,Sea Gate Restoration,20,$16.99,U,5,M
+1024,Temporal Mastery,16,$9.49,U,6,M
+1025,Scapeshift,10,$17.99,G,3,M
+1026,On Thin Ice,11,$3.49,W,1,R
+1027,Harrow,6,$0.59,G,3,C
+1028,Oust,4,$0.35,W,1,U
+1029,To the Slaughter,16,$0.25,B,3,R
+1030,Devour Flesh,12,$0.25,B,2,C
+1031,Legion's End,12,$0.35,B,2,R
+1032,Specter's Shriek,16,$0.25,B,1,U
+1033,Silundi Vision,14,$0.29,U,3,U
+1034,Gifts Ungiven,13,$1.49,U,4,R
+1035,Repeal,6,$0.25,U,1,C
+1036,Wipe Away,9,$0.25,U,2,U
+1037,Nephalia Drownyard,18,$1.29,V,0,R
+1038,Feed the Swarm,14,$0.99,B,2,C
+1039,Lullmage's Domination,21,$0.25,U,1,U
+1040,Sphere of Annihilation,22,$0.39,B,1,R
+1041,Rebuild,7,$0.25,U,3,U
+1042,Chancellor of the Spires,24,$0.79,U,5,R
+1043,Price of Betrayal,17,$0.25,B,1,U
+1044,Illness in the Ranks,20,$0.25,B,1,U
+1045,Bitter Ordeal,13,$16.99,B,3,R
+1046,Disenchant,10,$0.25,W,2,C
+1047,Weathered Runestone,19,$0.25,V,2,U
+1048,Hide/Seek,9,$2.79,BW,2,R
+1049,Lazotep Plating,15,$0.69,U,2,U
+1050,Spontaneous Mutation,20,$0.25,U,1,C
+1051,Into the Roil,13,$0.25,U,2,C
+1052,Aetherize,9,$0.69,U,4,U
+1053,Circle of Protection: Red,25,$0.25,W,2,C
+1054,Witch's Vengeance,17,$0.25,B,2,R
+1055,Sun Droplet,11,$0.25,V,2,U
+1056,Spectral Shift,14,$0.35,U,2,R
+1057,So Tiny,7,$0.25,U,1,C
+1058,The Elderspell,14,$0.49,B,1,R
+1059,"Lazav, Dimir Mastermind",23,$1.29,UB,2,M
+1060,Dictate of Kruphix,18,$2.29,U,2,R
+1061,Terminus,8,$1.99,W,5,R
+1062,"Jace, Wielder of Mysteries",26,$7.49,U,2,R
+1063,Abbot of Keral Keep,19,$0.99,R,2,R
+1064,Night's Whisper,15,$5.99,B,2,U
+1065,Tidehollow Sculler,18,$0.29,BW,2,U
+1066,Bump in the Night,17,$0.25,B,1,C
+1067,Scourge of Skola Vale,21,$0.39,G,3,R
+1068,Dreadhorde Butcher,18,$0.99,RB,2,R
+1069,Skewer the Critics,18,$0.79,R,3,C
+1070,Shard Volley,12,$0.99,R,1,C
+1071,Shatterskull Smashing,21,$4.99,R,1,M
+1072,Heartless Act,13,$1.29,B,2,U
+1073,Drill Bit,9,$0.25,B,3,U
+1074,Lingering Souls,15,$0.29,W,3,U
+1075,Virulent Plague,15,$0.25,B,3,U
+1076,Pharika's Libation,18,$0.25,B,3,C
+1077,Sword of Fire and Ice,21,$64.99,V,3,R
+1078,"Obosh, the Preypiercer",22,$0.59,B,4,R
+1079,Supreme Verdict,15,$8.99,UW,3,R
+1080,Omen of the Sea,15,$0.25,U,2,C
+1081,Detention Sphere,16,$1.49,UW,3,R
+1082,"Teferi, Hero of Dominaria",25,$24.99,UW,5,M
+1083,Celestial Colonnade,19,$5.49,V,0,R
+1084,Glacial Fortress,16,$6.99,V,0,R
+1085,Mystic Gate,11,$13.99,V,0,R
+1086,Prairie Stream,14,$0.35,V,0,R
+1087,Solitude,8,$29.99,W,4,M
+1088,Wall of Omens,13,$0.79,W,2,U
+1089,Entreat the Angels,18,$1.99,W,1,M
+1090,Brainstone,10,$0.25,V,1,U
+1091,Dovin's Veto,12,$1.99,UW,2,U
+1092,Hieroglyphic Illumination,25,$0.25,U,4,C
+1093,Castle Ardenvale,16,$2.79,V,0,R
+1094,Condemn,7,$0.25,W,1,U
+1095,Geier Reach Sanitarium,22,$0.69,V,0,R
+1096,Spell Queller,13,$6.49,UW,3,R
+1097,Stoneforge Mystic,17,$64.99,W,2,R
+1098,Behold the Multiverse,21,$0.25,U,4,C
+1099,Time Warp,9,$15.99,U,4,M
+1100,Irrigated Farmland,18,$0.79,V,0,R
+1101,Wrath of God,12,$4.49,W,3,R
+1102,Shadow of Doubt,15,$3.49,U,1,R
+1103,Telling Time,12,$0.25,U,2,C
+1104,Blessed Alliance,16,$0.25,W,2,U
+1105,"Elspeth, Sun's Nemesis",22,$1.79,W,3,M
+1106,"Urza, Lord High Artificer",25,$49.99,U,3,M
+1107,Omen of the Sun,15,$0.25,W,3,C
+1108,"Teferi, Master of Time",22,$12.99,U,3,M
+1109,Cast Out,8,$0.25,W,4,U
+1110,God-Eternal Kefnet,18,$5.99,U,3,M
+1111,Sphinx's Revelation,19,$3.99,UW,2,M
+1112,Settle the Wreckage,19,$4.49,W,3,R
+1113,Moderation,10,$0.25,UW,3,R
+1114,Secure the Wastes,17,$5.99,W,1,R
+1115,Censor,6,$0.25,U,2,U
+1116,Mazemind Tome,13,$1.99,V,2,R
+1117,Bring to Light,14,$0.99,UG,5,R
+1118,Hengegate Pathway,17,$8.99,V,0,R
+1119,Condescend,10,$0.25,U,1,C
+1120,Thirst for Knowledge,20,$0.25,U,3,U
+1121,Starnheim Unleashed,19,$4.49,W,3,M
+1122,Confounding Conundrum,21,$0.25,U,2,R
+1123,Gideon Jura,11,$0.79,W,4,M
+1124,"Elspeth, Sun's Champion",23,$15.99,W,5,M
+1125,Kaldra Compleat,15,$9.99,V,7,M
+1126,Ojutai's Command,16,$0.39,UW,4,R
+1127,"Jace, Architect of Thought",26,$0.99,U,3,M
+1128,Blossoming Calm,15,$0.25,W,1,U
+1129,Perilous Research,17,$0.49,U,2,U
+1130,Sword of Feast and Famine,25,$79.99,V,3,S
+1131,Part the Waterveil,18,$3.99,U,5,M
+1132,Urza's Power Plant,18,$0.99,V,0,U
+1133,Urza's Tower,12,$0.99,V,0,U
+1134,Temple of Enlightenment,23,$0.49,V,0,R
+1135,Doomskar,8,$2.79,W,4,R
+1136,Isolate,7,$0.35,W,1,R
+1137,Savai Triome,12,$12.99,V,0,R
+1138,Hatching Plans,14,$0.35,U,2,R
+1139,Timeless Dragon,15,$0.25,W,4,R
+1140,Thirst for Meaning,18,$0.25,U,3,C
+1141,Elder Deep-Fiend,16,$0.35,V,8,R
+1142,Forbidden Alchemy,17,$0.25,U,3,C
+1143,Radiant Purge,13,$0.35,W,2,R
+1144,Journey to Nowhere,18,$1.49,W,2,C
+1145,"Jolrael, Mwonvuli Recluse",25,$0.25,G,2,R
+1146,Hall of Heliod's Generosity,27,$6.99,V,0,R
+1147,Narset Transcendent,19,$12.99,UW,4,M
+1148,Deliberate,10,$0.25,U,2,C
+1149,Approach of the Second Sun,26,$1.29,W,7,R
+1150,Azorius Charm,13,$0.25,UW,2,U
+1151,Exclude,7,$0.25,U,3,C
+1152,Exhaustion,10,$0.25,U,3,U
+1153,Torrential Gearhulk,19,$9.99,U,5,M
+1154,Hinterland Harbor,17,$9.99,V,0,R
+1155,Gigadrowse,10,$0.29,U,1,C
+1156,Cyclonic Rift,13,$25.99,U,2,R
+1157,Aetherling,10,$0.35,U,5,R
+1158,"Minamo, School at Water's Edge",30,$21.99,V,0,R
+1159,Glimmer of Genius,17,$0.25,U,4,U
+1160,Inkmoth Nexus,13,$42.99,V,0,R
+1161,Realm-Cloaked Giant,19,$0.79,W,6,M
+1162,Urza's Factory,14,$0.25,V,0,U
+1163,Niko Aris,9,$0.99,UW,2,M
+1164,Elspeth Conquers Death,22,$0.25,W,4,R
+1165,"Elspeth, Knight-Errant",22,$12.99,W,3,M
+1166,Baneslayer Angel,16,$2.29,W,4,M
+1167,"Lutri, the Spellchaser",22,$0.25,U,2,R
+1168,Absorb,6,$0.99,UW,2,R
+1169,Fortune Thief,13,$0.29,R,5,R
+1170,Riptide Laboratory,18,$0.35,V,0,R
+1171,"Ugin, the Spirit Dragon",23,$34.99,V,8,M
+1172,Azorius Signet,14,$1.29,V,2,C
+1173,Talisman of Progress,20,$14.99,V,2,U
+1174,Time Wipe,9,$0.59,UW,4,R
+1175,Midnight Clock,14,$1.49,U,3,R
+1176,Dream Trawler,13,$0.25,UW,4,R
+1177,Mana Tithe,10,$0.25,W,1,C
+1178,Porphyry Nodes,14,$0.39,W,1,R
+1179,Lyra Dawnbringer,16,$15.99,W,4,M
+1180,Summary Dismissal,17,$0.39,U,3,R
+1181,"Kaheera, the Orphanguard",24,$1.29,G,2,R
+1182,Nexus of Fate,13,---,U,6,M
+1183,Wheel of Sun and Moon,21,$23.99,G,1,R
+1184,Tempted by the Oriq,19,$0.25,U,2,R
+1185,Nature's Chant,14,$0.25,G,2,C
+1186,Gideon of the Trials,20,$4.99,W,2,M
+1187,Commandeer,10,$22.99,U,6,R
+1188,Heliod's Intervention,21,$2.79,W,1,R
+1189,Ghostly Prison,14,$2.99,W,3,U
+1190,Isolated Chapel,15,$6.49,V,0,R
+1191,Teferi's Puzzle Box,19,$6.99,V,4,R
+1192,Tempest of Light,16,$0.25,W,3,U
+1193,Hallowed Moonlight,18,$0.25,W,2,R
+1194,Zuran Orb,9,$0.25,V,0,M
+1195,Portable Hole,13,$1.49,W,1,U
+1196,Hushbringer,11,$1.99,W,2,R
+1197,Angelic Purge,13,$0.25,W,3,C
+1198,Lightning Helix,15,$0.99,RW,2,U
+1199,Hour of Revelation,18,$0.39,W,4,R
+1200,Myth Realized,13,$0.39,W,1,R
+1201,Nine Lives,10,$0.25,W,2,R
+1202,"Heliod, God of the Sun",22,$8.99,W,4,M
+1203,Glare of Heresy,15,$0.25,W,2,U
+1204,Oketra's Last Mercy,19,$0.35,W,2,R
+1205,Revitalize,10,$0.25,W,2,C
+1206,Cleansing Nova,14,$0.49,W,4,R
+1207,Urza's Ruinous Blast,20,$1.29,W,5,R
+1208,Damn,4,$4.99,B,1,R
+1209,Tragic Arrogance,16,$0.69,W,4,R
+1210,Teferi's Moat,13,$1.29,UW,5,R
+1211,Nevermore,9,$1.29,W,2,R
+1212,Renounce the Guilds,19,$0.35,W,2,R
+1213,Flashfreeze,11,$0.25,U,2,U
+1214,Holy Day,8,$0.25,W,1,C
+1215,Declaration in Stone,20,$0.79,W,2,R
+1216,Glen Elendra Archmage,21,$9.99,U,4,R
+1217,Day of Judgment,15,$2.99,W,3,R
+1218,Redirect,8,$0.35,U,1,R
+1219,Bribery,7,$32.99,U,4,R
+1220,Luminarch Ascension,19,$15.99,W,2,R
+1221,Violent Outburst,16,$7.49,RG,3,C
+1222,Crashing Footfalls,18,$2.49,V,0,R
+1223,Ardent Plea,11,$2.99,UW,3,U
+1224,Greater Gargadon,16,$0.35,R,10,R
+1225,Hordeling Outburst,18,$0.25,R,2,U
+1226,Assault/Battery,15,$0.25,G,4,U
+1227,Restore Balance,15,$0.99,V,0,R
+1228,As Foretold,11,$16.99,U,3,M
+1229,Glorybringer,12,$1.79,R,4,R
+1230,Deafening Clarion,17,$0.35,RW,3,R
+1231,Bound/Determined,16,$0.49,UG,2,R
+1232,Hushwing Gryff,14,$0.49,W,3,R
+1233,Inevitable Betrayal,19,$0.59,V,0,R
+1234,Barrage of Boulders,19,$0.25,R,3,C
+1235,Fury Charm,10,$0.25,R,2,C
+1236,Striped Riverwinder,19,$0.35,U,7,C
+1237,Curator of Mysteries,20,$0.39,U,3,R
+1238,Desert Cerodon,14,$0.25,R,6,C
+1239,Windcaller Aven,15,$0.25,U,5,C
+1240,Architects of Will,18,$0.69,UB,4,C
+1241,Grief,5,$20.99,B,3,M
+1242,Waker of Waves,14,$0.25,U,6,U
+1243,Horror of the Broken Lands,26,$0.25,B,5,C
+1244,Monstrous Carabid,17,$0.35,RB,5,C
+1245,Archfiend of Ifnir,18,$2.49,B,4,R
+1246,Glassdust Hulk,14,$0.25,UW,5,C
+1247,Electrodominance,16,$3.49,R,1,R
+1248,Living End,10,$8.99,V,0,R
+1249,Demonic Dread,13,$0.25,RB,3,C
+1250,Sunken Ruins,12,$18.99,V,0,R
+1251,Titanoth Rex,12,$0.25,G,8,U
+1252,Deadshot Minotaur,17,$0.29,RG,5,C
+1253,Imposing Vantasaur,18,$0.25,W,6,C
+1254,Twisted Abomination,19,$0.25,B,6,C
+1255,Valley Rannet,13,$0.25,RG,6,C
+1256,Forbidden Orchard,17,$20.99,V,0,R
+1257,"Niv-Mizzet, Parun",17,$3.99,UR,2,R
+1258,Goryo's Vengeance,17,$2.99,B,2,R
+1259,Kari Zev's Expertise,20,$0.79,R,2,R
+1260,Adarkar Wastes,14,$12.99,V,0,R
+1261,Hollow One,10,$1.79,V,5,R
+1262,Viashino Sandsprinter,21,$0.25,R,2,C
+1263,Mausoleum Secrets,17,$1.29,B,2,R
+1264,Sulfurous Springs,17,$13.99,V,0,R
+1265,"Niv-Mizzet, the Firemind",24,$0.49,UR,4,R
+1266,Drift of Phantasms,18,$1.49,U,3,C
+1267,River Serpent,13,$0.25,U,6,C
+1268,Solve the Equation,18,$2.99,U,3,U
+1269,River of Tears,14,$3.99,V,0,R
+1270,Ricochet Trap,13,$0.49,R,4,U
+1271,Brindle Boar,12,$0.25,G,3,C
+1272,Horribly Awry,13,$0.25,U,2,U
+1273,Unpredictable Cyclone,21,$0.25,R,4,R
+1274,Syncopate,9,$0.25,U,1,C
+1275,Wispmare,8,$0.35,W,3,C
+1276,Reality Shift,13,$1.79,U,2,U
+1277,Drake Haven,11,$0.25,U,3,R
+1278,"Zirda, the Dawnwaker",20,$1.99,R,2,R
+1279,Countersquall,13,$0.99,UB,2,U
+1280,Mystical Teachings,18,$0.25,U,4,C
+1281,Nadir Kraken,12,$2.49,U,2,R
+1282,"Heliod, Sun-Crowned",19,$22.99,W,3,M
+1283,Spike Feeder,12,$1.49,G,2,U
+1284,Conclave Mentor,15,$1.99,GW,2,U
+1285,Archangel of Thune,18,$22.99,W,4,M
+1286,Voice of Resurgence,19,$4.99,GW,2,M
+1287,Hardened Scales,15,$9.49,G,1,R
+1288,Pendelhaven,11,$5.49,V,0,U
+1289,Llanowar Elves,14,$0.35,G,1,C
+1290,Wooded Bastion,14,$8.49,V,0,R
+1291,Elvish Mystic,13,$0.69,G,1,C
+1292,"Anafenza, Kin-Tree Spirit",25,$1.49,W,1,R
+1293,Devoted Druid,13,$2.29,G,2,C
+1294,Leyline of Abundance,20,$2.79,G,3,R
+1295,"Ezuri, Renegade Leader",22,$11.99,G,2,R
+1296,Elvish Archdruid,16,$0.99,G,2,R
+1297,Umbral Mantle,13,$14.99,V,3,U
+1298,Heritage Druid,14,$13.99,G,1,R
+1299,Brushland,9,$8.49,V,0,R
+1300,Branchloft Pathway,18,$4.99,V,0,R
+1301,Duskwatch Recruiter,19,$1.99,G,2,U
+1302,Ranger of Eos,13,$4.49,W,4,R
+1303,Joraga Treespeaker,18,$4.99,G,1,U
+1304,Lovestruck Beast,16,$0.25,G,3,R
+1305,"Trelasarra, Moon Dancer",23,$0.25,GW,2,U
+1306,Eldrazi Displacer,17,$4.49,W,3,R
+1307,Idyllic Grange,14,$0.25,V,0,C
+1308,Stirring Wildwood,17,$0.49,V,0,R
+1309,Boreal Druid,12,$3.49,G,1,C
+1310,Viscera Seer,12,$0.35,B,1,C
+1311,Sunpetal Grove,14,$4.99,V,0,R
+1312,Strangleroot Geist,18,$0.69,G,1,U
+1313,Pride Sovereign,15,$2.49,G,3,R
+1314,The Great Henge,15,$44.99,G,8,M
+1315,Beastcaller Savant,18,$0.69,G,2,R
+1316,Rhonas the Indomitable,22,$13.99,G,3,M
+1317,Steel Leaf Champion,19,$2.49,G,1,R
+1318,Old-Growth Troll,16,$0.59,G,1,R
+1319,Scurry Oak,10,$0.25,G,3,U
+1320,Soul's Attendant,16,$4.99,W,1,C
+1321,Chord of Calling,16,$6.99,G,1,R
+1322,"Brimaz, King of Oreskos",23,$17.99,W,2,M
+1323,Maul of the Skyclaves,21,$1.99,W,3,R
+1324,King of the Pride,17,$0.39,W,3,U
+1325,"Marwyn, the Nurturer",20,$0.69,G,3,R
+1326,"Reidane, God of the Worthy",26,$1.79,W,3,R
+1327,"Ghalta, Primal Hunger",21,$4.49,G,11,R
+1328,"Shalai, Voice of Plenty",23,$5.99,W,4,R
+1329,Regal Caracal,13,$0.69,W,4,R
+1330,"Vito, Thorn of the Dusk Rose",28,$6.49,B,3,R
+1331,Mirror Entity,13,$0.99,W,3,R
+1332,Prowling Felidar,16,$0.25,W,4,C
+1333,Ranger Class,12,$7.49,G,2,R
+1334,Sword of Light and Shadow,25,$24.99,V,3,R
+1335,Selfless Savior,15,$0.59,W,1,U
+1336,Carrion Feeder,14,$0.69,B,1,C
+1337,"Nykthos, Shrine to Nyx",22,$37.99,V,0,R
+1338,Karn's Bastion,14,$5.49,V,0,R
+1339,Caustic Caterpillar,19,$0.99,G,1,C
+1340,Legion Angel,12,$0.99,W,3,R
+1341,Fairgrounds Warden,18,$0.25,W,3,U
+1342,Dromoka's Command,17,$1.79,GW,2,R
+1343,Prowling Serpopard,18,$4.99,G,2,R
+1344,Shapers' Sanctuary,18,$1.79,G,1,R
+1345,Garruk's Harbinger,18,$0.25,G,2,R
+1346,Tocatli Honor Guard,19,$0.25,W,2,R
+1347,Vines of Vastwood,17,$1.99,G,1,C
+1348,"Nissa, Voice of Zendikar",24,$2.29,G,2,M
+1349,Showdown of the Skalds,22,$0.79,RW,4,R
+1350,Lead the Stampede,17,$0.25,G,3,U
+1351,"Toski, Bearer of Secrets",24,$11.99,G,4,R
+1352,Dawnbringer Cleric,18,$0.25,W,2,C
+1353,"Titania, Protector of Argoth",28,$2.29,G,4,M
+1354,Reveillark,10,$0.99,W,5,R
+1355,Stillmoon Cavalier,18,$3.49,W,2,R
+1356,Gideon's Intervention,21,$0.35,W,3,R
+1357,Hangarback Walker,17,$6.49,V,0,R
+1358,Whisperwood Elemental,21,$0.99,G,4,M
+1359,"Sigrid, God-Favored",19,$0.25,W,2,R
+1360,Mausoleum Wanderer,18,$4.49,U,1,R
+1361,Supreme Phantom,15,$2.79,U,2,R
+1362,Drogskol Captain,16,$0.69,UW,3,U
+1363,Rattlechains,12,$0.69,U,2,R
+1364,Shacklegeist,12,$0.25,U,2,R
+1365,Spectral Sailor,15,$0.29,U,1,U
+1366,Curious Obsession,17,$1.29,U,1,U
+1367,Tallowisp,9,$0.69,W,2,U
+1368,Faerie Seer,11,$0.39,U,1,C
+1369,Empyrean Eagle,14,$0.35,UW,3,U
+1370,Squadron Hawk,13,$0.25,W,2,C
+1371,Lofty Denial,12,$0.25,U,2,C
+1372,Steel of the Godhead,20,$3.99,W,3,C
+1373,Nebelgast Herald,16,$0.25,U,3,U
+1374,Ninja of the Deep Hours,23,$1.29,U,4,C
+1375,Faerie Miscreant,16,$0.25,U,1,C
+1376,Rune Snag,9,$0.25,U,2,C
+1377,Shining Shoal,13,$0.69,W,1,R
+1378,Siren Stormtamer,16,$0.59,U,1,U
+1379,Snapback,8,$0.25,U,2,C
+1380,Polluted Mire,13,$0.25,V,0,C
+1381,Crystallization,15,$0.25,GW,2,C
+1382,Watcher of the Spheres,22,$0.35,UW,2,U
+1383,Essence Flux,12,$1.29,U,1,U
+1384,Reprobation,11,$0.25,W,2,C
+1385,Faceless Haven,14,$7.49,V,0,R
+1386,Hanged Executioner,18,$0.39,W,3,R
+1387,Shefet Dunes,12,$0.25,V,0,U
+1388,Flooded Grove,13,$8.49,V,0,R
+1389,Creeping Tar Pit,16,$4.49,V,0,R
+1390,Serra the Benevolent,20,$12.99,W,3,M
+1391,Nimbus Maze,11,$0.99,V,0,R
+1392,Cerulean Drake,14,$0.25,U,2,U
+1393,"Kaya, Orzhov Usurper",20,$8.99,BW,3,M
+1394,Mystic Reflection,17,$2.29,U,2,R
+1395,Polymorphist's Jest,19,$2.29,U,2,R
+1396,Spirit Link,11,$0.39,W,1,U
+1397,Shattering Blow,15,$0.25,R,2,C
+1398,Favorable Winds,15,$0.25,U,2,U
+1399,Wing Shards,11,$0.25,W,2,U
+1400,Whirlwind Denial,16,$0.25,U,3,U
+1401,Bygone Bishop,13,$0.29,W,3,R
+1402,Azorius Herald,14,$0.25,W,3,U
+1403,"Ephara, God of the Polis",24,$5.99,UW,4,M
+1404,Mist-Syndicate Naga,19,$0.99,U,3,R
+1405,Narset's Reversal,17,$7.99,U,1,R
+1406,Manriki-Gusari,14,$1.49,V,2,U
+1407,Mark of Eviction,16,$0.25,U,1,U
+1408,Sword of Sinew and Steel,24,$14.99,V,3,M
+1409,Mark of Asylum,14,$1.29,W,2,R
+1410,"Nissa, Steward of Elements",26,$1.29,UG,2,M
+1411,Pentarch Ward,13,$0.25,W,3,C
+1412,Pariah,6,$1.99,W,3,R
+1413,Gideon Blackblade,17,$2.99,W,2,M
+1414,Erase,5,$0.25,W,1,C
+1415,"Kunoros, Hound of Athreos",25,$0.69,BW,3,R
+1416,Risen Reef,10,$2.29,UG,3,U
+1417,Flamekin Harbinger,18,$12.99,R,1,U
+1418,Thunderkin Awakener,19,$2.29,R,2,R
+1419,Vesperlark,10,$0.25,W,3,U
+1420,Smokebraider,12,$0.25,R,2,C
+1421,"Omnath, Locus of the Roil",25,$10.99,URG,4,M
+1422,Flickerwisp,11,$0.25,W,2,U
+1423,Spitebellows,12,$0.25,R,6,U
+1424,Mulldrifter,11,$0.25,U,5,C
+1425,Incandescent Soulstoke,22,$0.99,R,3,R
+1426,Primal Beyond,13,$18.99,V,0,R
+1427,Horde of Notions,16,$0.39,URBGW,5,R
+1428,Creeping Trailblazer,20,$0.25,RG,2,U
+1429,Indatha Triome,14,$10.99,V,0,R
+1430,Healer of the Glade,19,$0.25,G,1,C
+1431,Hellspark Elemental,19,$0.25,R,2,U
+1432,Brighthearth Banneret,21,$0.49,R,2,C
+1433,Abundant Growth,15,$0.59,G,1,C
+1434,Pyre of Heroes,14,$0.99,V,2,R
+1435,Ice-Fang Coatl,14,$4.49,UG,2,R
+1436,Parcelbeast,11,$0.35,UG,4,U
+1437,Spark Elemental,15,$0.35,R,1,C
+1438,Groundbreaker,13,$2.29,G,1,R
+1439,Overgrowth Elemental,20,$0.25,G,3,U
+1440,Chancellor of the Tangle,24,$1.29,G,5,R
+1441,Goblin Bombardment,18,$1.99,R,2,U
+1442,Scampering Scorcher,19,$0.25,R,4,U
+1443,Woodland Wanderer,17,$0.25,G,4,R
+1444,"Omnath, Locus of Rage",21,$2.49,RG,5,M
+1445,Lightning Elemental,19,$0.25,R,4,C
+1446,Glarewielder,12,$0.25,R,5,U
+1447,Body Double,11,$0.79,U,5,R
+1448,"Vadrok, Apex of Thunder",23,$1.29,URW,3,M
+1449,Master of Waves,15,$3.99,U,4,M
+1450,Spark Trooper,13,$0.25,RW,3,R
+1451,Leafkin Druid,13,$0.25,G,2,C
+1452,Cloudkin Seer,13,$0.25,U,3,C
+1453,"Yarok, the Desecrated",21,$15.99,UBG,5,M
+1454,Greenwarden of Murasa,21,$1.29,G,5,M
+1455,Malakir Rebirth,15,$2.99,B,1,U
+1456,"Ashaya, Soul of the Wild",24,$9.99,G,4,M
+1457,"Muldrotha, the Gravetide",24,$7.49,UBG,6,M
+1458,Tunnel Ignus,12,$0.35,R,2,R
+1459,Undergrowth Champion,20,$2.99,G,2,M
+1460,Living Twister,14,$0.25,RG,2,R
+1461,Fusion Elemental,16,$0.25,URBGW,5,U
+1462,"Morophon, the Boundless",23,$25.99,V,7,M
+1463,Crib Swap,9,$0.25,W,3,U
+1464,Moritte of the Frost,20,$0.25,UG,4,U
+1465,Rage Forger,11,$0.35,R,3,U
+1466,Mindsparker,11,$0.35,R,2,R
+1467,Leyline of Vitality,19,$5.49,G,3,R
+1468,Offalsnout,10,$0.25,B,3,U
+1469,Jaddi Lifestrider,17,$0.25,G,5,U
+1470,Eyes of the Wisent,18,$0.69,G,2,R
+1471,Heroic Intervention,19,$10.99,G,2,R
+1472,Dust Elemental,14,$0.99,W,3,R
+1473,Seasons Past,12,$4.49,G,5,M
+1474,Nameless Inversion,18,$0.25,B,2,C
+1475,Gurmag Angler,13,$0.25,B,7,C
+1476,Bloodbraid Marauder,19,$0.25,R,2,R
+1477,"Lazav, the Multifarious",23,$1.99,UB,2,M
+1478,Ponder,6,$2.79,U,1,C
+1479,Gitaxian Probe,14,$2.49,U,1,C
+1480,Quicken,7,$0.39,U,1,R
+1481,Treasure Cruise,15,$0.29,U,8,C
+1482,Fists of Flame,14,$0.25,R,2,C
+1483,Grisly Salvage,14,$0.25,BG,2,C
+1484,Rise/Fall,9,$0.25,UB,2,U
+1485,Omen of the Dead,16,$0.25,B,1,C
+1486,Cremate,7,$0.25,B,1,C
+1487,"Egon, God of Death",18,$0.39,B,3,R
+1488,"Sygg, River Cutthroat",21,$2.99,U,1,R
+1489,Deathrite Shaman,16,$7.99,B,1,R
+1490,Turn to Frog,12,$0.25,U,2,U
+1491,Call of the Death-Dweller,25,$0.79,B,3,U
+1492,Cinderclasm,11,$0.25,R,2,U
+1493,Saw It Coming,13,$0.69,U,2,U
+1494,King Narfi's Betrayal,21,$0.25,UB,3,R
+1495,"Kess, Dissident Mage",20,$2.99,URB,4,M
+1496,Growth Spiral,13,$0.39,UG,2,C
+1497,Niv-Mizzet Reborn,17,$3.49,URBGW,5,M
+1498,Pillar of the Paruns,20,$19.99,V,0,R
+1499,Treasure Hunt,13,$0.25,U,2,C
+1500,Felidar Guardian,16,$0.99,W,4,U
+1501,"Kiki-Jiki, Mirror Breaker",25,$9.99,R,3,R
+1502,Deceiver Exarch,15,$0.25,U,3,U
+1503,Glittering Wish,15,$0.35,GW,2,R
+1504,Sylvan Caryatid,15,$5.49,G,2,R
+1505,Saheeli Rai,11,$4.99,UR,3,M
+1506,Pestermite,10,$0.39,U,3,C
+1507,Eureka Moment,13,$0.25,UG,4,C
+1508,"Nahiri, the Harbinger",21,$2.99,RW,4,M
+1509,Cinder Glade,12,$0.99,V,0,R
+1510,"Kasmina, Enigma Sage",20,$2.29,UG,3,M
+1511,Urban Evolution,15,$0.25,UG,5,U
+1512,Bounding Krasis,15,$0.25,UG,3,U
+1513,Hallowed Burial,15,$0.99,W,4,R
+1514,Platinum Angel,14,$10.99,V,7,M
+1515,Shadows' Verdict,16,$0.25,B,4,R
+1516,Thought Erasure,15,$0.25,UB,2,U
+1517,"Nicol Bolas, Dragon-God",23,$12.99,URB,3,M
+1518,Whisper Agent,13,$0.25,U,2,C
+1519,Fracture,8,$0.99,BW,2,U
+1520,Akoum Hellhound,15,$0.25,R,1,C
+1521,Nivmagus Elemental,18,$0.35,U,1,R
+1522,Flame Rift,10,$0.25,R,2,C
+1523,Cryptbreaker,12,$7.49,B,1,R
+1524,Dread Wanderer,14,$2.29,B,1,R
+1525,Fling,5,$0.25,R,2,C
+1526,Hex Parasite,12,$3.99,V,1,R
+1527,Crippling Fear,14,$0.99,B,3,R
+1528,Agonizing Remorse,17,$0.25,B,2,U
+1529,Self-Inflicted Wound,20,$0.25,B,2,U
+1530,Phyrexian Unlife,16,$6.99,W,3,R
+1531,Postmortem Lunge,16,$0.39,B,1,U
+1532,Arcbound Ravager,16,$23.99,V,2,R
+1533,Arcbound Worker,15,$0.25,V,1,C
+1534,Metallic Mimic,14,$11.99,V,2,R
+1535,Scrapyard Recombiner,20,$0.35,V,3,R
+1536,"Zabaz, the Glimmerwasp",22,$0.35,V,1,R
+1537,Steel Overseer,14,$1.79,V,2,R
+1538,Ingenious Smith,15,$0.39,W,2,U
+1539,The Ozolith,11,$19.99,V,1,R
+1540,Animation Module,16,$0.99,V,1,R
+1541,Welding Jar,11,$1.29,V,0,C
+1542,Throne of Geth,14,$0.25,V,2,U
+1543,Mox Opal,8,$59.99,V,0,S
+1544,Springleaf Drum,15,$2.29,V,1,U
+1545,Llanowar Reborn,15,$0.25,V,0,U
+1546,Phyrexia's Core,15,$0.25,V,0,U
+1547,Blinkmoth Nexus,15,$3.49,V,0,R
+1548,Power Depot,11,$0.25,V,0,U
+1549,Arcbound Mouser,15,$0.25,W,1,C
+1550,Snakeskin Veil,14,$0.25,G,1,C
+1551,Darkbore Pathway,16,$10.99,V,0,R
+1552,Spire of Industry,17,$3.99,V,0,R
+1553,Kazuul's Fury,13,$0.59,R,3,U
+1554,Stonecoil Serpent,17,$2.99,V,0,R
+1555,Power Conduit,13,$2.29,V,2,U
+1556,Evolutionary Leap,17,$0.79,G,2,R
+1557,Karplusan Forest,16,$5.99,V,0,R
+1558,Memnite,7,$7.49,V,0,U
+1559,Inventors' Fair,15,$10.99,V,0,R
+1560,Winding Constrictor,19,$0.79,BG,2,U
+1561,Ornithopter,11,$0.35,V,0,U
+1562,Sparring Construct,18,$0.25,V,1,C
+1563,Swarm Shambler,14,$0.29,G,1,R
+1564,Witch's Oven,12,$1.29,V,1,U
+1565,Gemrazer,8,$1.29,G,4,R
+1566,Crystalline Giant,17,$1.29,V,3,R
+1567,Galvanic Blast,14,$0.29,R,1,C
+1568,Arcbound Javelineer,19,$0.25,W,1,U
+1569,"Emry, Lurker of the Loch",24,$4.49,U,3,R
+1570,Basilisk Collar,15,$2.49,V,1,R
+1571,Barkchannel Pathway,19,$7.99,V,0,R
+1572,Mox Amber,9,$37.99,V,0,M
+1573,Fiend Artisan,13,$9.49,B,1,M
+1574,"Kinnan, Bonder Prodigy",22,$6.49,UG,2,M
+1575,Splendid Reclamation,20,$5.49,G,4,R
+1576,Windbrisk Heights,17,$0.35,V,0,R
+1577,Molten Vortex,13,$0.35,R,1,R
+1578,Blossoming Defense,18,$0.79,G,1,U
+1579,Vault of the Archangel,22,$7.99,V,0,R
+1580,Oswald Fiddlebender,19,$2.29,W,2,R
+1581,Tomb of the Spirit Dragon,25,$0.39,V,0,U
+1582,Hall of the Bandit Lord,23,$32.99,V,0,R
+1583,Buried Ruin,11,$0.59,V,0,U
+1584,Ruins of Oran-Rief,18,$0.35,V,0,R
+1585,"Karn, Scion of Urza",19,$10.99,V,4,M
+1586,Whipflare,9,$0.25,R,2,U
+1587,Paraselene,10,$0.25,W,3,U
+1588,Mystic Forge,12,$7.99,V,4,R
+1589,Blacksmith's Skill,18,$0.25,W,1,C
+1590,Mirrorweave,11,$0.39,W,3,R
+1591,Ram Through,11,$0.29,G,2,C
+1592,Warping Wail,12,$1.29,V,1,U
+1593,Blessed Respite,15,$0.29,G,2,U
+1594,Blade of the Bloodchief,23,$3.99,V,1,R
+1595,Thud,4,$0.25,R,1,U
+1596,"Baral, Chief of Compliance",26,$6.49,U,2,R
+1597,Goblin Electromancer,20,$0.25,UR,2,C
+1598,Desperate Ritual,16,$1.29,R,2,C
+1599,Pyretic Ritual,14,$3.99,R,2,C
+1600,Peer Through Depths,19,$0.25,U,2,C
+1601,Past in Flames,14,$1.99,R,4,M
+1602,Grapeshot,9,$0.25,R,2,C
+1603,Empty the Warrens,17,$0.25,R,4,C
+1604,Pieces of the Puzzle,20,$0.25,U,3,C
+1605,Merchant Scroll,15,$6.99,U,2,U
+1606,Wish,4,$1.79,R,3,R
+1607,"Birgi, God of Storytelling",26,$8.99,R,3,R
+1608,"Rowan, Scholar of Sparks",24,$5.99,UR,4,M
+1609,Serum Powder,12,$0.49,V,3,R
+1610,Kavu Predator,13,$0.25,G,2,U
+1611,Grapeshot Catapult,18,$0.25,V,4,C
+1612,Increasing Vengeance,20,$0.69,R,1,R
+1613,Dual Strike,11,$0.29,R,1,U
+1614,Overrule,8,$0.25,UW,2,C
+1615,Fae of Wishes,13,$0.25,U,2,R
+1616,Ignite Memories,15,$0.59,R,5,U
+1617,Galvanic Relay,14,$0.25,R,3,C
+1618,Volcanic Awakening,18,$0.25,R,5,U
+1619,Goblin Bushwhacker,18,$1.49,R,1,C
+1620,Void Snare,10,$0.25,U,1,C
+1621,Consign to Dream,16,$0.25,U,3,C
+1622,Perilous Voyage,15,$0.25,U,2,U
+1623,Resounding Wave,15,$0.25,U,3,C
+1624,Precognition Field,18,$0.59,U,4,R
+1625,"Ral, Storm Conduit",18,$2.49,UR,4,R
+1626,Mine Collapse,13,$0.25,R,4,C
+1627,Esper Charm,11,$1.29,UBW,3,U
+1628,Fallen Shinobi,14,$3.49,UB,5,R
+1629,Shambling Vent,14,$1.99,V,0,R
+1630,Archon of Cruelty,17,$8.99,B,7,M
+1631,Day's Undoing,13,$5.99,U,3,M
+1632,Oath of Kaya,12,$0.35,BW,3,R
+1633,Disfigure,9,$0.25,B,1,C
+1634,Commence the Endgame,20,$0.25,U,5,R
+1635,Thalia's Lancers,16,$0.59,W,4,R
+1636,Fetid Pools,11,$5.99,V,0,R
+1637,"Zareth San, the Trickster",25,$0.25,UB,5,R
+1638,Unburial Rites,14,$0.25,B,5,U
+1639,Trial of Ambition,17,$0.25,B,2,U
+1640,Oath of Gideon,14,$0.29,W,3,R
+1641,Oath of Teferi,14,$0.79,UW,5,R
+1642,Pull from Tomorrow,18,$4.99,U,1,R
+1643,Oath of Liliana,15,$0.35,B,3,R
+1644,Notion Thief,12,$3.49,UB,4,R
+1645,"Chromium, the Mutable",21,$1.99,UBW,7,M
+1646,Fleet Swallower,15,$1.29,U,6,R
+1647,It That Betrays,15,$21.99,V,12,R
+1648,Resolute Archangel,18,$1.49,W,6,R
+1649,Escape Protocol,15,$0.25,U,2,U
+1650,Echo of Eons,12,$10.99,U,5,M
+1651,"Linvala, the Preserver",22,$1.29,W,5,M
+1652,The Scarab God,14,$19.99,UB,5,M
+1653,Inferno Titan,13,$0.79,R,5,M
+1654,"Lukka, Coppercoat Outcast",25,$2.49,R,4,M
+1655,Stormbreath Dragon,18,$3.49,R,4,M
+1656,"Domri, Anarch of Bolas",22,$1.99,RG,3,R
+1657,Planebound Accomplice,21,$0.35,R,3,R
+1658,Hyrax Tower Scout,17,$0.25,G,3,C
+1659,Burning-Tree Shaman,19,$0.49,RG,3,R
+1660,Crack the Earth,15,$0.25,R,1,C
+1661,"Kiora, Behemoth Beckoner",24,$0.69,G,3,U
+1662,Chromatic Star,14,$0.25,V,1,U
+1663,Gorilla Shaman,14,$0.25,R,1,C
+1664,Gruul Spellbreaker,18,$0.49,RG,3,R
+1665,Fire-Lit Thicket,16,$6.49,V,0,R
+1666,Goblin Ruinblaster,18,$0.29,R,3,U
+1667,Ichor Wellspring,16,$0.25,V,2,C
+1668,Rekindling Phoenix,18,$1.99,R,3,M
+1669,Kalonian Hydra,14,$19.99,G,4,M
+1670,Game Trail,10,$1.29,V,0,R
+1671,Wildfield Borderpost,20,$0.25,GW,3,C
+1672,Weathered Wayfarer,18,$11.99,W,1,R
+1673,Fieldmist Borderpost,20,$0.25,UW,3,C
+1674,Rhythm of the Wild,18,$5.49,RG,3,U
+1675,Soul Tithe,10,$0.25,W,2,U
+1676,Alpine Guide,12,$0.25,R,3,U
+1677,Sweltering Suns,15,$1.29,R,2,R
+1678,Knight of the White Orchid,26,$0.99,W,1,R
+1679,Magus of the Tabernacle,23,$1.79,W,4,R
+1680,Waking the Trolls,17,$0.25,RG,6,R
+1681,"Chandra, Heart of Fire",22,$0.79,R,4,M
+1682,Rubble Reading,14,$0.25,R,4,C
+1683,Deathgorge Scavenger,20,$0.99,G,3,R
+1684,Karn Liberated,14,$34.99,V,7,M
+1685,"Chandra, Pyromaster",19,$0.79,R,3,M
+1686,Godsend,7,$17.99,W,2,M
+1687,"Elesh Norn, Grand Cenobite",26,$9.99,W,6,M
+1688,Banefire,8,$1.29,R,1,R
+1689,"Neheb, the Eternal",18,$23.99,R,4,M
+1690,Castle Embereth,15,$0.59,V,0,R
+1691,Skarrgan Hellkite,17,$1.29,R,4,M
+1692,"Sarkhan, Fireblood",18,$12.99,R,2,M
+1693,Fiery Justice,13,$0.25,RGW,3,R
+1694,"Sarkhan, the Dragonspeaker",26,$0.99,R,4,M
+1695,Plummet,7,$0.25,G,2,C
+1696,Aethersphere Harvester,22,$0.69,V,3,R
+1697,Slagstorm,9,$0.99,R,2,R
+1698,Orbs of Warding,15,$1.29,V,5,R
+1699,Chandra's Defeat,16,$0.25,R,1,U
+1700,Redcap Melee,12,$0.25,R,1,U
+1701,The Akroan War,14,$0.25,R,4,R
+1702,Mizzium Mortars,15,$0.49,R,2,R
+1703,Mastery of the Unseen,21,$0.25,W,2,R
+1704,Caldera Hellion,15,$0.35,R,4,R
+1705,Silent Arbiter,14,$3.49,V,4,R
+1706,Summoning Trap,14,$0.29,G,5,R
+1707,Heart of Kiran,14,$0.79,V,2,M
+1708,"Chandra, Fire Artisan",21,$0.99,R,3,R
+1709,Garruk Relentless,17,$6.99,G,4,M
+1710,Young Wolf,10,$1.29,G,1,C
+1711,Wall of Roots,13,$0.29,G,2,C
+1712,Geralf's Messenger,18,$19.99,B,1,R
+1713,"Hapatra, Vizier of Poisons",26,$1.49,BG,2,R
+1714,Blood Artist,12,$6.99,B,2,U
+1715,Cavalier of Night,17,$4.49,B,3,M
+1716,Essence Warden,14,$5.99,G,1,C
+1717,Elves of Deep Shadow,20,$1.49,G,1,C
+1718,Prosperous Innkeeper,20,$0.79,G,2,U
+1719,Ivy Lane Denizen,16,$0.25,G,4,C
+1720,Ravenous Chupacabra,19,$0.99,B,3,U
+1721,In Search of Greatness,22,$0.99,G,1,R
+1722,Village Rites,13,$0.25,B,1,C
+1723,"Savra, Queen of the Golgari",27,$7.99,BG,4,R
+1724,Obelisk Spider,14,$0.25,BG,3,U
+1725,Nest Invader,12,$0.25,G,2,C
+1726,Falkenrath Aristocrat,21,$0.49,RB,4,M
+1727,Destiny Spinner,15,$2.49,G,2,U
+1728,Thrashing Brontodon,19,$0.25,G,2,U
+1729,Phyrexian Obliterator,21,$24.99,B,1,M
+1730,Wickerbough Elder,17,$0.25,G,4,C
+1731,Gaze of Granite,15,$0.25,BG,2,R
+1732,Necroplasm,10,$0.49,B,2,R
+1733,"Braids, Cabal Minion",20,$0.25,B,3,R
+1734,Siege Rhino,11,$0.79,BGW,4,R
+1735,"Fynn, the Fangbearer",20,$0.59,G,2,U
+1736,"Pharika, God of Affliction",26,$3.49,BG,3,M
+1737,Kraul Harpooner,15,$0.25,G,2,U
+1738,Intrepid Hero,13,$0.79,W,3,R
+1739,Dosan the Falling Leaf,22,$12.99,G,2,R
+1740,Crypt Rats,10,$0.25,B,3,U
+1741,Puresteel Paladin,17,$10.99,W,1,R
+1742,Steelshaper's Gift,18,$37.99,W,1,U
+1743,Sigarda's Aid,13,$8.99,W,1,R
+1744,Colossus Hammer,15,$1.49,V,1,U
+1745,Paradise Mantle,15,$10.99,V,0,U
+1746,Cranial Plating,15,$0.69,V,2,U
+1747,Swiftfoot Boots,15,$1.29,V,2,U
+1748,Accorder's Shield,17,$0.25,V,0,U
+1749,Gingerbrute,11,$0.25,V,1,C
+1750,Kor Outfitter,13,$0.25,W,1,C
+1751,"Sram, Senior Edificer",21,$0.79,W,2,R
+1752,Cathar's Shield,15,$0.25,V,0,C
+1753,Retract,7,$7.99,U,1,R
+1754,Spidersilk Net,14,$0.25,V,0,C
+1755,Sigil of Distinction,20,$1.29,V,0,R
+1756,Puresight Merrow,16,$0.35,W,1,U
+1757,Bone Saw,8,$0.25,V,0,C
+1758,Kor Duelist,11,$0.25,W,1,U
+1759,Surestrike Trident,18,$0.99,V,2,U
+1760,Flayer Husk,11,$0.25,V,1,C
+1761,Nettlecyst,10,$1.99,V,3,R
+1762,Signal Pest,11,$0.99,V,1,U
+1763,Mortarpod,9,$0.25,V,2,U
+1764,Paradise Druid,14,$0.25,G,2,U
+1765,Gladecover Scout,16,$0.25,G,1,C
+1766,Glint Hawk,10,$0.25,W,1,C
+1767,Sacred Cat,10,$0.25,W,1,C
+1768,Ancestral Blade,15,$0.25,W,2,U
+1769,Swiftblade Vindicator,21,$0.59,RW,2,R
+1770,Needleverge Pathway,19,$5.99,V,0,R
+1771,Artificer's Assistant,21,$0.25,U,1,C
+1772,Wishclaw Talisman,17,$2.29,B,2,R
+1773,Clifftop Retreat,16,$8.99,V,0,R
+1774,Reckless Crew,13,$0.25,R,4,R
+1775,Conjurer's Bauble,17,$0.69,V,1,C
+1776,Gods Willing,12,$0.25,W,1,C
+1777,Faith's Shield,14,$0.25,W,1,U
+1778,Leonin Shikari,14,$6.49,W,2,R
+1779,Lightning Greaves,17,$6.99,V,2,U
+1780,Sejiri Shelter,14,$0.59,W,2,U
+1781,Mask of Memory,14,$0.59,V,2,U
+1782,Nim Deathmantle,15,$13.99,V,2,R
+1783,Armament Master,15,$0.29,W,1,R
+1784,Skyclave Cleric,15,$0.25,W,2,U
+1785,Silence,7,$3.99,W,1,R
+1786,Ghirapur Aether Grid,20,$0.99,R,3,U
+1787,Paradoxical Outcome,19,$0.69,U,4,R
+1788,Dispatch,8,$1.79,W,1,U
+1789,Rebuff the Wicked,17,$0.59,W,1,U
+1790,Patrician's Scorn,17,$0.25,W,4,C
+1791,Mythos of Snapdax,17,$0.39,W,3,R
+1792,Restoration Specialist,22,$0.25,W,2,U
+1793,Empty-Shrine Kannushi,21,$0.25,W,1,U
+1794,Sword of War and Peace,22,$16.99,V,3,S
+1795,Sword of Truth and Justice,26,$22.99,V,3,M
+1796,Argentum Armor,14,$1.29,V,6,R
+1797,Glorious End,12,$0.99,R,3,M
+1798,Viridian Longbow,16,$0.29,V,1,C
+1799,Glistener Elf,13,$1.49,G,1,C
+1800,Blighted Agent,14,$1.29,U,2,C
+1801,Plague Stinger,14,$0.69,B,2,C
+1802,Phyrexian Crusader,18,$16.99,B,2,R
+1803,Ichorclaw Myr,13,$1.29,V,2,C
+1804,Might of Old Krosa,18,$0.25,G,1,U
+1805,Groundswell,11,$0.69,G,1,C
+1806,Scale Up,8,$0.35,G,1,U
+1807,Distortion Strike,17,$0.69,U,1,U
+1808,Rancor,6,$0.99,G,1,C
+1809,Viridian Corrupter,18,$0.79,G,2,U
+1810,Wild Shape,10,$0.25,G,1,U
+1811,Slip Through Space,18,$0.25,U,1,C
+1812,Wild Defiance,13,$0.59,G,3,R
+1813,Blight Mamba,12,$0.79,G,2,C
+1814,Slaughterhorn,13,$0.25,G,3,C
+1815,Season of Growth,16,$0.79,G,2,U
+1816,Pongify,7,$1.79,U,1,U
+1817,Primal Might,12,$0.25,G,1,R
+1818,Rapid Hybridization,19,$2.99,U,1,U
+1819,Necropede,9,$0.99,V,2,U
+1820,Carrion Call,12,$0.29,G,4,U
+1821,Rot Wolf,8,$0.25,G,3,C
+1822,Larger Than Life,16,$0.25,G,2,C
+1823,Simic Charm,11,$0.35,UG,2,U
+1824,Artful Dodge,12,$0.35,U,1,C
+1825,Twisted Image,13,$0.25,U,1,U
+1826,Sword of Dungeons & Dragons,27,$4.49,V,3,M
+1827,Cathedral of War,16,$1.99,V,0,R
+1828,Ranger's Guile,14,$0.25,G,1,C
+1829,Piracy Charm,12,$0.25,U,1,C
+1830,Silhana Ledgewalker,19,$0.35,G,2,C
+1831,Slippery Bogle,14,$0.79,G,1,C
+1832,Wrap in Vigor,13,$1.49,G,2,C
+1833,Tainted Strike,14,$1.49,B,1,C
+1834,Corpse Cur,10,$0.25,V,4,C
+1835,Troll Ascetic,13,$0.35,G,2,R
+1836,Tezzeret's Gambit,17,$0.25,U,4,U
+1837,Contentious Plan,16,$0.25,U,2,C
+1838,Gnarlwood Dryad,15,$0.35,G,1,U
+1839,Authority of the Consuls,24,$11.99,W,1,R
+1840,Annihilating Fire,17,$0.25,R,2,C
+1841,Emerge Unscathed,16,$0.35,W,1,C
+1842,Teferi's Time Twist,19,$0.25,U,2,C
+1843,Light of Hope,13,$0.25,W,1,C
+1844,Nature's Cloak,14,$2.49,G,3,R
+1845,Great Sable Stag,16,$0.39,G,2,R
+1846,Reclaim,7,$0.25,G,1,C
+1847,Stonewood Invocation,20,$1.29,G,4,R
+1848,Phyrexian Arena,15,$18.99,B,2,R
+1849,Undying Evil,12,$0.99,B,1,C
+1850,"Sorin, Solemn Visitor",21,$4.49,BW,4,M
+1851,Fetid Heath,11,$9.49,V,0,R
+1852,Caves of Koilos,15,$0.99,V,0,R
+1853,Callous Bloodmage,17,$0.59,B,3,R
+1854,Goldmire Bridge,15,$0.25,V,0,C
+1855,Wasteland Strangler,19,$0.25,B,3,R
+1856,Martyr of Sands,15,$0.25,W,1,C
+1857,Orzhov Charm,12,$0.25,BW,2,U
+1858,Legion's Landing,16,$4.49,W,1,R
+1859,Intangible Virtue,17,$0.25,W,2,U
+1860,Speaker of the Heavens,22,$2.99,W,1,R
+1861,"Emeria, the Sky Ruin",20,$14.99,V,0,R
+1862,Dusk Legion Zealot,18,$0.25,B,2,C
+1863,Spectral Procession,19,$0.39,V,2,U
+1864,Thought-Knot Seer,17,$7.49,V,3,R
+1865,Eldrazi Temple,14,$8.99,V,0,U
+1866,"Sorin, Lord of Innistrad",24,$7.49,BW,4,M
+1867,Snowfield Sinkhole,18,$1.29,V,0,U
+1868,Banishing Light,15,$0.25,W,3,U
+1869,Etched Champion,15,$6.99,V,3,R
+1870,Reality Smasher,15,$4.99,V,4,R
+1871,Cloudshift,10,$0.25,W,1,C
+1872,Ifnir Deadlands,15,$0.25,V,0,U
+1873,Serra Ascendant,15,$27.99,W,1,R
+1874,Ashen Rider,11,$1.79,BW,6,M
+1875,Council's Judgment,18,$3.99,W,2,R
+1876,"Elbrus, the Binding Blade",25,$6.49,V,7,M
+1877,Kami of False Hope,18,$0.79,W,1,C
+1878,Hero's Downfall,15,$3.49,B,2,R
+1879,"Mavinda, Students' Advocate",27,$1.49,W,3,M
+1880,Sword of Hearth and Home,24,$16.99,V,3,M
+1881,Kaya the Inexorable,19,$6.49,BW,5,M
+1882,Despark,7,$0.39,BW,2,U
+1883,Revoke Existence,16,$0.25,W,2,C
+1884,Solemnity,9,$2.99,W,3,R
+1885,Rain of Tears,13,$0.25,B,2,U
+1886,Lone Missionary,15,$0.25,W,2,C
+1887,Sundering Growth,16,$0.25,G,1,C
+1888,Zealous Persecution,19,$0.25,BW,2,U
+1889,Death Cloud,11,$12.99,B,1,R
+1890,Dreadhorde Invasion,19,$0.99,B,2,R
+1891,Sword of Body and Mind,22,$19.99,V,3,M
+1892,Gifted Aetherborn,17,$1.29,B,1,U
+1893,Safewright Quest,16,$0.35,G,1,C
+1894,"Tolsimir, Friend to Wolves",26,$0.25,GW,4,R
+1895,"Sisay, Weatherlight Captain",27,$0.35,W,3,R
+1896,Wall of Blossoms,16,$0.25,G,2,U
+1897,Expansion/Explosion,19,$2.99,U,1,R
+1898,Faeburrow Elder,15,$2.79,GW,3,R
+1899,Binding the Old Gods,20,$0.69,BG,4,U
+1900,Coiling Oracle,14,$0.25,UG,2,C
+1901,The World Tree,14,$5.49,V,0,R
+1902,Pentad Prism,12,$0.25,V,2,C
+1903,Lotus Cobra,11,$4.99,G,2,R
+1904,Karn's Temporal Sundering,25,$3.49,U,5,R
+1905,"Nicol Bolas, the Ravager",24,$42.99,URB,4,M
+1906,Solar Blaze,11,$0.25,RW,4,R
+1907,"Garruk, Cursed Huntsman",23,$4.99,BG,6,M
+1908,Bringer of the Black Dawn,25,$2.49,B,8,R
+1909,Loxodon Smiter,14,$0.25,GW,3,R
+1910,"Polukranos, Unchained",21,$2.49,BG,4,M
+1911,"Esika, God of the Tree",22,$9.99,URBGW,6,M
+1912,Setessan Champion,17,$2.49,G,3,R
+1913,"Mila, Crafty Companion",22,$3.49,RW,3,M
+1914,Tyrant's Scorn,14,$0.25,UB,2,U
+1915,Reborn Hope,11,$0.25,GW,2,U
+1916,Castigate,9,$0.25,BW,2,C
+1917,Rhox War Monk,13,$0.25,UGW,3,U
+1918,"Jori En, Ruin Diver",19,$0.59,UR,3,R
+1919,Narset of the Ancient Way,25,$1.99,URW,4,M
+1920,"Atris, Oracle of Half-Truths",28,$0.25,UB,4,R
+1921,Dragonlord Silumgar,19,$20.99,UB,6,M
+1922,Rimewood Falls,14,$1.29,V,0,U
+1923,Highland Forest,15,$1.29,V,0,U
+1924,"Rashmi, Eternities Crafter",26,$0.79,UG,4,M
+1925,"Nissa, Who Shakes the World",27,$6.49,G,4,R
+1926,Loxodon Hierarch,16,$0.49,GW,4,R
+1927,Qasali Ambusher,15,$0.79,GW,3,U
+1928,Spellbreaker Behemoth,21,$0.35,RG,3,R
+1929,"Tamiyo, Collector of Tales",26,$0.99,UG,4,R
+1930,Geomancer's Gambit,18,$0.25,R,3,C
+1931,Hero of Precinct One,20,$0.35,W,2,R
+1932,Catch/Release,13,$0.25,RW,6,R
+1933,Yawgmoth's Vile Offering,24,$0.35,B,5,R
+1934,Chromatic Lantern,17,$12.99,V,3,R
+1935,Magus of the Moat,17,$4.99,W,3,R
+1936,"Glissa, the Traitor",19,$3.49,BG,2,M
+1937,Blood Baron of Vizkopa,22,$0.49,BW,5,M
+1938,"Koma, Cosmos Serpent",20,$16.99,UG,5,M
+1939,Goblin Matron,13,$0.69,R,3,U
+1940,Munitions Expert,16,$0.25,RB,2,U
+1941,Goblin Ringleader,17,$0.49,R,4,U
+1942,Conspicuous Snoop,17,$3.49,R,1,R
+1943,Mogg War Marshal,16,$0.25,R,2,C
+1944,Boggart Harbinger,17,$2.29,B,3,U
+1945,Skirk Prospector,16,$0.25,R,1,C
+1946,Sling-Gang Lieutenant,21,$0.59,B,4,U
+1947,Goblin Warchief,15,$0.69,R,2,U
+1948,Goblin Chieftain,16,$4.49,R,2,R
+1949,Pashalik Mons,13,$1.79,R,3,R
+1950,Putrid Goblin,13,$0.25,B,2,C
+1951,Goblin Piledriver,17,$2.99,R,2,R
+1952,"Grumgully, the Generous",23,$0.25,RG,3,U
+1953,"Krenko, Mob Boss",16,$6.99,R,3,R
+1954,Murderous Redcap,16,$0.49,B,3,U
+1955,Frogtosser Banneret,19,$0.29,B,2,C
+1956,Auntie's Hovel,14,$22.99,V,0,R
+1957,Warren Instigator,17,$11.99,R,1,M
+1958,Blightstep Pathway,18,$8.49,V,0,R
+1959,Goblin Trashmaster,18,$3.99,R,3,R
+1960,Mogg Fanatic,12,$0.25,R,1,U
+1961,Legion Loyalist,15,$6.99,R,1,R
+1962,Goblin Instigator,17,$0.49,R,2,C
+1963,Goblin Grenade,14,$0.69,R,1,U
+1964,Goblin Chainwhirler,19,$1.79,R,1,R
+1965,Legion Warboss,14,$2.99,R,3,R
+1966,Knucklebone Witch,17,$1.49,B,1,R
+1967,Stingscourger,13,$0.25,R,2,C
+1968,Siege-Gang Commander,20,$0.69,R,4,R
+1969,Patriarch's Bidding,19,$1.29,B,4,R
+1970,Foundry Street Denizen,22,$0.25,R,1,C
+1971,Warren Weirding,15,$0.25,B,2,C
+1972,Dragon's Herald,15,$0.25,R,1,U
+1973,Goblin Wardriver,16,$0.25,R,1,U
+1974,Makeshift Munitions,19,$0.25,R,2,U
+1975,Battle Cry Goblin,17,$0.35,R,2,U
+1976,Wily Goblin,11,$0.49,R,1,U
+1977,Earwig Squad,12,$1.99,B,4,R
+1978,Goblin Cohort,13,$0.25,R,1,C
+1979,Tattermunge Maniac,18,$0.29,R,1,U
+1980,Goblin Arsonist,15,$0.25,R,1,C
+1981,Goblin King,11,$4.99,R,2,R
+1982,Hobgoblin Bandit Lord,21,$2.99,R,2,R
+1983,"Krenko, Tin Street Kingpin",26,$2.79,R,3,R
+1984,Lightning Crafter,17,$5.99,R,4,R
+1985,Dark-Dweller Oracle,19,$0.35,R,2,R
+1986,"Muxus, Goblin Grandee",21,$12.99,R,5,R
+1987,Phyrexian Tower,15,$18.99,V,0,R
+1988,Goblin Smuggler,15,$0.25,R,3,C
+1989,Hellkite Overlord,17,$6.49,RBG,7,R
+1990,Zo-Zu the Punisher,18,$4.99,R,2,R
+1991,Tin Street Hooligan,19,$0.25,R,2,C
+1992,Mad Auntie,10,$0.79,B,3,R
+1993,Boartusk Liege,14,$8.99,R,2,R
+1994,Dragon Fodder,13,$0.25,R,2,C
+1995,Brash Taunter,13,$3.99,R,5,R
+1996,Icon of Ancestry,16,$4.49,V,3,R
+1997,Fecundity,9,$0.59,G,3,U
+1998,"Wort, Boggart Auntie",20,$7.99,RB,4,R
+1999,Pillar of Flame,15,$0.25,R,1,C
+2000,Webweaver Changeling,20,$0.25,G,4,U
+2001,Herald's Horn,13,$8.99,V,3,U
+2002,"Anax, Hardened in the Forge",27,$0.25,R,2,U
+2003,Shredded Sails,14,$0.25,R,2,C
+2004,Koth of the Hammer,18,$8.99,R,3,M
+2005,Impact Tremors,14,$4.49,R,2,C
+2006,Erebos's Intervention,21,$0.79,B,1,R
+2007,"Squee, the Immortal",19,$0.79,R,2,R
+2008,Bloodmark Mentor,16,$2.79,R,2,U
+2009,Tuktuk Scrapper,15,$0.25,R,4,U
+2010,Impervious Greatwurm,20,---,G,8,M
+2011,Slagwoods Bridge,16,$0.25,V,0,C
+2012,Cragganwick Cremator,20,$0.35,R,3,R
+2013,Ahn-Crop Crasher,16,$0.25,R,3,U
+2014,Captain Lannery Storm,21,$4.49,R,3,R
+2015,Phoenix of Ash,14,$0.25,R,2,R
+2016,Deus of Calamity,16,$1.29,R,1,R
+2017,Flametongue Yearling,20,$0.25,R,1,U
+2018,Zealous Conscripts,18,$1.99,R,5,R
+2019,Vivien Reid,11,$11.99,G,4,M
+2020,Force of Rage,13,$0.35,R,2,R
+2021,Soul Sear,9,$0.25,R,3,U
+2022,Crush the Weak,14,$0.25,R,3,U
+2023,Arbor Colossus,14,$0.35,G,3,R
+2024,God-Pharaoh's Statue,20,$0.59,V,6,U
+2025,Everlasting Torment,19,$1.99,B,3,R
+2026,Crater's Claws,14,$0.35,R,1,R
+2027,Vizier of Remedies,18,$0.25,W,2,U
+2028,Neoform,7,$0.59,UG,2,U
+2029,Dwynen's Elite,14,$0.25,G,2,U
+2030,Freed from the Real,19,$4.49,U,3,U
+2031,Nettle Sentinel,15,$0.35,G,1,C
+2032,Llanowar Tribe,14,$0.29,G,1,U
+2033,Elvish Visionary,16,$0.25,G,2,C
+2034,Fauna Shaman,12,$13.99,G,2,R
+2035,Prophetic Ravings,17,$0.25,R,1,C
+2036,Recross the Paths,17,$0.79,G,3,U
+2037,Dubious Challenge,17,$0.35,G,4,R
+2038,Goblin Charbelcher,18,$0.59,V,4,R
+2039,Shimmer of Possibility,22,$0.25,U,2,C
+2040,Quirion Ranger,14,$0.39,G,1,C
+2041,Elvish Warmaster,16,$3.99,G,2,R
+2042,Heliod's Pilgrim,16,$0.25,W,3,C
+2043,Beast Whisperer,15,$3.49,G,3,R
+2044,Wild Cantor,11,$0.25,R,1,C
+2045,Elvish Clancaller,17,$2.79,G,1,R
+2046,Thopter Foundry,15,$0.25,UW,2,U
+2047,Winding Way,11,$0.25,G,2,C
+2048,Worldspine Wurm,15,$10.99,G,9,M
+2049,Shaman of the Pack,18,$0.25,BG,3,U
+2050,Necrotic Ooze,13,$5.99,B,3,R
+2051,Irencrag Feat,13,$0.39,R,2,R
+2052,Bala Ged Recovery,17,$4.49,G,3,U
+2053,Borborygmos Enraged,19,$1.29,RG,6,M
+2054,Morselhoarder,13,$0.25,R,5,C
+2055,"Nylea, Keen-Eyed",16,$3.99,G,4,M
+2056,Knight-Captain of Eos,21,$2.99,W,5,R
+2057,Jarad's Orders,14,$1.29,BG,4,R
+2058,Reforge the Soul,16,$13.99,R,4,R
+2059,Genesis Hydra,13,$0.59,G,1,R
+2060,Gilt-Leaf Palace,16,$12.99,V,0,R
+2061,Circle of Dreams Druid,22,$12.99,G,1,R
+2062,"Rishkar, Peema Renegade",23,$0.99,G,3,R
+2063,Mass Hysteria,13,$9.49,R,1,R
+2064,Vivien's Arkbow,15,$0.35,G,2,R
+2065,Copperhorn Scout,16,$0.25,G,1,C
+2066,Incubation/Incongruity,22,$0.25,UG,3,U
+2067,"Vivien, Arkbow Ranger",21,$4.49,G,2,M
+2068,Wistful Selkie,14,$0.25,G,1,U
+2069,Den Protector,13,$0.35,G,2,R
+2070,Sword of the Meek,17,$2.29,V,2,U
+2071,"Kenrith, the Returned King",26,---,W,5,M
+2072,Sylvan Anthem,13,$1.29,G,1,R
+2073,Cloudstone Curio,16,$64.99,V,3,S
+2074,Elvish Champion,15,$22.99,G,2,R
+2075,"Oona, Queen of the Fae",22,$1.99,U,4,M
+2076,Angel's Grace,13,$2.49,W,1,R
+2077,Mystic Enforcer,15,$0.25,GW,4,R
+2078,Omen Machine,12,$0.99,V,6,R
+2079,Devout Lightcaster,18,$0.25,W,1,R
+2080,Aetherflux Reservoir,20,$16.99,V,4,R
+2081,Pilfering Imp,13,$0.25,B,1,U
+2082,Ground Seal,11,$0.25,G,2,R
+2083,Vryn Wingmare,13,$0.25,W,3,R
+2084,"Iona, Shield of Emeria",22,$9.99,W,7,M
+2085,Goblin Cannon,13,$0.25,V,4,U
+2086,Sylvan Messenger,16,$0.25,G,4,U
+2087,"Ajani, Adversary of Tyrants",27,$5.49,W,3,M
+2088,"Ajani, Mentor of Heroes",23,$14.99,GW,5,M
+2089,Consume the Meek,16,$0.35,B,4,R
+2090,"Aeve, Progenitor Ooze",21,$0.25,G,3,R
+2091,Biogenic Ooze,13,$4.99,G,4,M
+2092,Spore Frog,10,$0.25,G,1,C
+2093,Archangel Avacyn,16,$8.99,W,4,M
+2094,Headhunter,10,$0.25,B,2,U
+2095,Big Game Hunter,15,$0.25,B,2,U
+2096,Steel Wall,10,$0.25,V,1,C
+2097,Dusk/Dawn,9,$0.99,W,4,R
+2098,Nullhide Ferox,14,$0.79,G,3,M
+2099,"Umori, the Collector",20,$0.25,B,3,R
+2100,Velomachus Lorehold,19,$5.49,RW,7,M
+2101,Indomitable Creativity,22,$7.99,R,1,M
+2102,Hard Evidence,13,$0.25,U,1,C
+2103,Savor the Moment,16,$27.99,U,2,R
+2104,Dwarven Mine,12,$0.25,V,0,C
+2105,Transmogrify,12,$0.25,R,4,R
+2106,Fires of Invention,18,$0.35,R,4,R
+2107,Knowledge Pool,14,$0.79,V,6,R
+2108,Archetype of Endurance,22,$1.99,G,7,U
+2109,Master of the Pearl Trident,27,$4.99,U,1,R
+2110,Lord of Atlantis,16,$12.99,U,1,R
+2111,Silvergill Adept,16,$0.25,U,2,U
+2112,Merfolk Trickster,17,$1.49,U,1,U
+2113,Merrow Reejerey,15,$6.99,U,3,U
+2114,Kumena's Speaker,16,$0.25,G,1,U
+2115,Merfolk Mistbinder,18,$0.39,UG,2,U
+2116,Benthic Biomancer,17,$0.69,U,1,R
+2117,Harbinger of the Tides,22,$0.49,U,1,R
+2118,Tide Shaper,11,$0.25,U,1,U
+2119,Svyelun of Sea and Sky,22,$3.99,U,2,M
+2120,Cursecatcher,12,$0.99,U,1,U
+2121,Wanderwine Hub,14,$4.49,V,0,R
+2122,Tidebinder Mage,15,$0.35,U,1,R
+2123,Coralhelm Commander,19,$4.99,U,1,R
+2124,"Thassa, God of the Sea",22,$17.99,U,3,M
+2125,Sea's Claim,11,$0.25,U,1,C
+2126,Cosi's Trickster,16,$0.59,U,1,R
+2127,Bind the Monster,16,$0.25,U,1,C
+2128,Sentinel of the Pearl Trident,29,$0.25,U,5,U
+2129,Ongoing Investigation,21,$0.25,U,2,U
+2130,Psionic Blast,13,$6.99,U,3,U
+2131,Rishadan Dockhand,17,$0.35,U,1,R
+2132,Mistcaller,10,$0.35,U,1,R
+2133,Merfolk Sovereign,17,$0.49,U,2,R
+2134,"Mu Yanling, Sky Dancer",22,$2.99,U,2,M
+2135,"Sygg, River Guide",17,$1.49,UW,2,R
+2136,"Kopala, Warden of Waves",23,$0.79,U,2,R
+2137,Swift Warden,12,$0.25,G,2,U
+2138,Cackling Counterpart,20,$0.35,U,2,R
+2139,Aquitect's Will,15,$0.25,U,1,C
+2140,Thieving Skydiver,17,$1.99,U,2,R
+2141,Deeproot Waters,15,$0.35,U,3,U
+2142,Hypnotic Sprite,15,$0.25,U,1,U
+2143,Covetous Urge,13,$0.25,U,1,U
+2144,Essence Scatter,15,$0.25,U,2,C
+2145,Squelch,7,$0.25,U,2,U
+2146,Heroic Reinforcements,21,$0.25,RW,4,U
+2147,Frost Breath,12,$0.25,U,3,C
+2148,Steel Sabotage,14,$0.25,U,1,C
+2149,Trickbind,9,$7.99,U,2,R
+2150,Naturalize,10,$0.25,G,2,C
+2151,Disallow,8,$5.99,U,2,R
+2152,"Shizo, Death's Storehouse",25,$39.99,V,0,R
+2153,Pack Rat,8,$3.99,B,2,R
+2154,"Shinka, the Bloodsoaked Keep",28,$34.99,V,0,R
+2155,Bedevil,7,$2.29,RB,2,R
+2156,Despise,7,$0.25,B,1,U
+2157,Joraga Warcaller,16,$7.99,G,1,R
+2158,Growth-Chamber Guardian,23,$0.35,G,2,R
+2159,Bramblewood Paragon,19,$2.49,G,2,U
+2160,Imperious Perfect,17,$0.35,G,3,U
+2161,Sylvan Ranger,13,$0.25,G,2,C
+2162,Wildborn Preserver,18,$0.25,G,2,R
+2163,Tyvar Kell,10,$6.99,G,3,M
+2164,Tajuru Paragon,14,$0.25,G,2,R
+2165,Skemfar Avenger,15,$0.49,B,2,R
+2166,"Oran-Rief, the Vastwood",23,$0.49,V,0,R
+2167,Master Biomancer,16,$0.99,UG,4,M
+2168,Commune with Nature,19,$0.25,G,1,C
+2169,Gilt-Leaf Archdruid,19,$9.99,G,4,R
+2170,Llanowar Visionary,18,$0.25,G,3,C
+2171,Incubation Druid,16,$1.29,G,2,R
+2172,Jaspera Sentinel,16,$0.25,G,1,C
+2173,Scryb Ranger,12,$0.25,G,2,U
+2174,"Okina, Temple to the Grandfathers",33,$7.49,V,0,R
+2175,Throne of the God-Pharaoh,25,$5.99,V,2,R
+2176,Tajuru Preserver,16,$3.49,G,2,R
+2177,Setessan Petitioner,19,$0.25,G,2,U
+2178,Leyline of Lifeforce,20,$2.99,G,3,R
+2179,Staff of Domination,19,$4.49,V,3,R
+2180,Gaea's Herald,13,$2.29,G,2,R
+2181,Lifecrafter's Bestiary,22,$2.49,V,3,R
+2182,Viridian Zealot,15,$0.35,G,1,R
+2183,Rhys the Exiled,15,$2.29,G,3,R
+2184,Joiner Adept,12,$2.99,G,2,R
+2185,Skemfar Shadowsage,18,$0.25,B,4,U
+2186,"Vivien, Monsters' Advocate",26,$7.99,G,4,M
+2187,Regal Force,11,$2.79,G,5,R
+2188,"Vraska, Relic Seeker",20,$4.49,BG,6,M
+2189,Chandra's Incinerator,21,$0.79,R,6,R
+2190,Wayward Guide-Beast,19,$0.25,R,1,R
+2191,Thunderous Wrath,16,$0.25,R,5,U
+2192,Seeker of the Way,17,$0.25,W,2,C
+2193,Searing Blood,13,$0.99,R,1,U
+2194,Exquisite Firecraft,19,$0.59,R,2,R
+2195,Flames of the Blood Hand,24,$0.49,R,3,U
+2196,Searing Spear,13,$0.25,R,2,C
+2197,Igneous Inspiration,19,$0.25,R,3,U
+2198,Risk Factor,11,$2.79,R,3,R
+2199,Goblin Mountaineer,18,$0.25,R,1,C
+2200,Clever Lumimancer,17,$0.25,W,1,U
+2201,Thermo-Alchemist,16,$0.25,R,2,C
+2202,"Tibalt, Rakish Instigator",25,$0.29,R,3,U
+2203,Satyr Firedancer,16,$0.49,R,2,R
+2204,Firebrand Archer,16,$0.25,R,2,C
+2205,Rimrock Knight,14,$0.25,R,2,C
+2206,Chained to the Rocks,20,$0.49,W,1,R
+2207,Stigma Lasher,13,$3.99,R,1,R
+2208,Volcanic Fallout,16,$0.25,R,2,U
+2209,Scorching Dragonfire,20,$0.25,R,2,C
+2210,Electrickery,12,$0.25,R,1,C
+2211,Oblivion Ring,13,$0.29,W,3,C
+2212,Command Tower,13,$0.25,V,0,C
+2213,Goblin Bangchuckers,19,$0.25,R,3,U
+2214,Ashes of the Abhorrent,22,$0.79,W,2,R
+2215,Spirit Summoning,16,$0.25,R,2,C
+2216,Start from Scratch,18,$0.25,R,3,U
+2217,Leave No Trace,14,$0.29,W,2,C
+2218,Lightning Mare,14,$0.25,R,1,U
+2219,Kor Spiritdancer,16,$2.99,W,2,R
+2220,Ethereal Armor,14,$0.99,W,1,C
+2221,Daybreak Coronet,16,$5.99,W,1,R
+2222,Spider Umbra,12,$0.25,G,1,C
+2223,Hyena Umbra,11,$0.35,W,1,C
+2224,Gryff's Boon,12,$0.25,W,1,U
+2225,Spirit Mantle,13,$0.69,W,2,U
+2226,All That Glitters,17,$1.79,W,2,U
+2227,Cartouche of Solidarity,23,$0.25,W,1,C
+2228,Sentinel's Eyes,15,$0.25,W,1,C
+2229,Unflinching Courage,19,$0.25,GW,3,U
+2230,Keen Sense,10,$0.25,G,1,U
+2231,Sixth Sense,11,$0.25,G,1,U
+2232,Fortified Village,17,$1.49,V,0,R
+2233,"Sythis, Harvest's Hand",22,$1.99,GW,2,R
+2234,Savage Swipe,12,$0.25,G,1,C
+2235,Lagonna-Band Trailblazer,24,$0.25,W,1,C
+2236,Setessan Training,17,$0.25,G,2,C
+2237,Karametra's Favor,17,$0.25,G,2,U
+2238,Satyr Enchanter,15,$0.99,GW,3,U
+2239,Knight's Pledge,15,$0.25,W,2,C
+2240,Barkhide Troll,14,$0.25,G,1,U
+2241,Staggering Insight,18,$0.29,UW,2,U
+2242,Baffling End,12,$0.25,W,2,U
+2243,Helm of the Gods,16,$0.59,V,1,R
+2244,Open the Armory,15,$0.69,W,2,U
+2245,Sentinel's Mark,15,$0.25,W,2,U
+2246,Ghostblade Eidolon,18,$0.25,W,3,U
+2247,Lifelink,8,$0.25,W,1,C
+2248,Sky Tether,10,$0.25,W,1,U
+2249,Sundering Vitae,15,$0.25,G,3,C
+2250,Aura Gnarlid,12,$0.25,G,3,C
+2251,"Teyo, the Shieldmage",20,$0.29,W,3,U
+2252,Resurgent Belief,16,$0.35,V,0,R
+2253,Rogue's Gloves,14,$0.25,V,2,U
+2254,Shatter the Sky,15,$0.25,W,3,R
+2255,Serra Avenger,13,$0.35,W,1,R
+2256,Mishra's Factory,16,$0.25,V,0,R
+2257,Rugged Prairie,14,$6.99,V,0,R
+2258,Judge's Familiar,16,$0.49,W,1,U
+2259,"Isamaru, Hound of Konda",23,$1.79,W,1,R
+2260,Scavenger Grounds,17,$0.49,V,0,R
+2261,Ovalchase Daredevil,19,$0.79,B,4,U
+2262,Asmoranomardicadaistinaculdacar,31,$1.49,V,0,R
+2263,Matter Reshaper,15,$3.49,V,2,R
+2264,Toolcraft Exemplar,18,$0.25,W,1,R
+2265,"Alrund, God of the Cosmos",25,$1.79,U,4,M
+2266,"Akroma, Angel of Fury",21,$1.29,R,6,R
+2267,Venerated Loxodon,17,$0.35,W,5,R
+2268,Geist-Honored Monk,18,$0.35,W,4,R
+2269,Mangara of Corondor,19,$0.35,W,2,R
+2270,Mistveil Plains,15,$0.99,V,0,U
+2271,Kor Skyfisher,13,$0.25,W,2,C
+2272,Angrath's Marauders,19,$1.79,R,6,R
+2273,"Tomik, Distinguished Advokist",29,$0.35,W,1,R
+2274,Eight-and-a-Half-Tails,22,$2.49,W,1,R
+2275,Venerable Warsinger,19,$0.35,RW,3,R
+2276,Glass Casket,12,$0.25,W,2,U
+2277,"Daxos, Blessed by the Sun",25,$0.59,W,1,U
+2278,"Mikaeus, the Lunarch",20,$3.49,W,1,M
+2279,Pia Nalaar,10,$0.35,R,3,R
+2280,Temple of Triumph,17,$0.79,V,0,R
+2281,Unbreakable Formation,21,$0.99,W,3,R
+2282,Stonecloaker,12,$0.25,W,3,U
+2283,Dryad Militant,14,$0.25,G,1,U
+2284,Selfless Glyphweaver,20,$0.25,BW,4,R
+2285,Faerie Guidemother,18,$0.25,W,1,C
+2286,Honor of the Pure,17,$1.49,W,2,R
+2287,Endless Sands,13,$0.35,V,0,R
+2288,Figure of Destiny,17,$1.79,R,1,R
+2289,Loyal Sentry,12,$0.25,W,1,R
+2290,"Gisela, the Broken Blade",24,$27.99,W,3,M
+2291,Sunlance,8,$0.25,W,1,C
+2292,Manic Vandal,12,$0.25,R,3,C
+2293,Valorous Stance,15,$0.25,W,2,U
+2294,Hunted Phantasm,15,$2.29,U,2,R
+2295,The Wanderer,12,$0.49,W,4,U
+2296,Aven Riftwatcher,16,$0.25,W,3,C
+2297,Dispeller's Capsule,19,$0.25,W,1,C
+2298,All Is Dust,11,$11.99,V,7,R
+2299,"Ugin, the Ineffable",19,$5.49,V,6,R
+2300,Sanctum of Ugin,15,$1.29,V,0,R
+2301,"Kozilek, the Great Distortion",29,$17.99,V,8,M
+2302,Wandering Archaic,17,$9.49,V,5,R
+2303,Conduit of Ruin,15,$1.99,V,6,R
+2304,Aetherworks Marvel,18,$1.99,V,4,M
+2305,Glassblower's Puzzleknot,24,$0.25,V,2,C
+2306,Woodweaver's Puzzleknot,23,$0.25,V,2,C
+2307,Sylvan Library,14,$44.99,G,2,R
+2308,Endbringer,10,$1.79,V,5,R
+2309,Seek the Wilds,14,$0.25,G,2,C
+2310,Talisman of Resilience,22,$0.39,V,2,U
+2311,Chromatic Orrery,16,$18.99,V,7,M
+2312,Eldrazi Mimic,13,$0.69,V,2,R
+2313,Mox Tantalite,13,$6.99,V,0,M
+2314,Filigree Sages,14,$0.25,U,4,U
+2315,Vizier of Tumbling Sands,24,$0.29,U,3,U
+2316,Oblivion Sower,14,$4.49,V,6,M
+2317,Mystifying Maze,15,$0.99,V,0,R
+2318,Doubling Season,15,$79.99,G,5,M
+2319,Sea Gate Wreckage,17,$0.49,V,0,R
+2320,Perilous Vault,14,$3.49,V,4,M
+2321,Labyrinth of Skophos,20,$0.79,V,0,R
+2322,Bonders' Enclave,16,$2.49,V,0,R
+2323,Talisman of Impulse,19,$2.29,V,2,U
+2324,"Samut, the Tested",17,$1.99,RG,4,M
+2325,Crawling Barrens,16,$0.59,V,0,R
+2326,Possessed Portal,16,$4.49,V,8,R
+2327,Drownyard Temple,16,$0.25,V,0,R
+2328,Omniscience,11,$22.99,U,8,M
+2329,Mind Stone,10,$0.49,V,2,U
+2330,Broken Bond,11,$0.29,G,2,C
+2331,"Jace, Cunning Castaway",22,$2.49,U,2,M
+2332,"Miren, the Moaning Well",23,$20.99,V,0,R
+2333,Painter's Servant,17,$64.99,V,2,S
+2334,Duplicant,9,$0.35,V,6,R
+2335,Prophet of the Peak,19,$0.25,V,6,C
+2336,Bottle Gnomes,13,$0.25,V,3,U
+2337,Amulet of Safekeeping,21,$0.25,V,2,R
+2338,Mistcutter Hydra,16,$1.99,G,1,R
+2339,Lignify,7,$1.29,G,2,C
+2340,Ugin's Nexus,12,$1.29,V,5,M
+2341,Forsaken Monument,17,$8.99,V,5,M
+2342,Lithoform Engine,16,$13.99,V,4,M
+2343,Filigree Familiar,17,$0.25,V,3,U
+2344,Jester's Cap,12,$4.49,V,4,R
+2345,Nevinyrral's Disk,17,$0.35,V,4,R
+2346,Autumn's Veil,13,$0.79,G,1,U
+2347,Trading Post,12,$0.35,V,4,R
+2348,Savage Summoning,16,$0.69,G,1,R
+2349,Sparkhunter Masticore,21,$0.25,V,3,R
+2350,Stinging Shot,13,$0.25,G,1,C
+2351,Door to Nothingness,19,$1.99,V,5,R
+2352,Crashing Drawbridge,19,$0.35,V,2,C
+2353,Tumble Magnet,13,$0.25,V,3,U
+2354,Ward of Bones,13,$14.99,V,6,R
+2355,Void Winnower,13,$13.99,V,9,M
+2356,Mycosynth Wellspring,20,$0.25,V,2,C
+2357,Storage Matrix,14,$2.49,V,3,R
+2358,Culling Scales,14,$0.59,V,3,R
+2359,Trufflesnout,12,$0.25,G,3,C
+2360,Progenitus,10,$11.99,URBGW,5,M
+2361,Palladium Myr,13,$0.25,V,3,U
+2362,Ancient Greenwarden,19,$14.99,G,5,M
+2363,Myr Battlesphere,16,$0.35,V,7,R
+2364,Meteor Golem,12,$0.25,V,7,U
+2365,Fist of Suns,12,$12.99,V,3,R
+2366,Runaway Steam-Kin,17,$0.59,R,2,R
+2367,Warlord's Fury,14,$0.25,R,1,C
+2368,Hammer of Bogardan,18,$0.59,R,2,R
+2369,"Torbran, Thane of Red Fell",26,$0.99,R,2,R
+2370,Keldon Marauders,16,$0.25,R,2,C
+2371,Heartfire Immolator,19,$0.25,R,2,U
+2372,Fanatical Firebrand,19,$0.25,R,1,C
+2373,Magma Jet,9,$0.25,R,2,U
+2374,Arclight Phoenix,16,$7.49,R,4,M
+2375,The Flame of Keld,17,$0.25,R,2,U
+2376,Incinerate,10,$0.25,R,2,C
+2377,Maximize Velocity,17,$0.25,R,1,C
+2378,Skred,5,$0.35,R,1,C
+2379,Demigod of Revenge,18,$2.29,B,1,R
+2380,Ground Rift,11,$0.25,R,1,C
+2381,Electrostatic Field,19,$0.79,R,2,U
+2382,Robber of the Rich,18,$5.99,R,2,M
+2383,Cavalcade of Calamity,21,$0.25,R,2,U
+2384,Leonin Lightscribe,18,$0.49,W,2,R
+2385,Zhalfirin Void,14,$0.25,V,0,U
+2386,Brushfire Elemental,19,$0.25,RG,2,U
+2387,Forbidden Friendship,20,$0.25,R,2,C
+2388,Inspiring Statuary,18,$4.49,V,3,R
+2389,Zurgo Bellstriker,17,$0.79,R,1,R
+2390,Escape Velocity,15,$0.25,R,1,U
+2391,Collateral Damage,17,$0.25,R,1,C
+2392,Grim Initiate,13,$0.25,R,1,C
+2393,The Biblioplex,14,$0.25,V,0,R
+2394,Slaying Fire,12,$0.25,R,3,U
+2395,Flameskull,10,$2.99,R,2,M
+2396,Flame Jab,9,$0.25,R,1,U
+2397,Expedite,8,$0.25,R,1,C
+2398,Reckless Rage,13,$0.29,R,1,U
+2399,Goblin Wizardry,15,$0.25,R,4,C
+2400,Invigorated Rampage,19,$0.25,R,2,U
+2401,Flame Javelin,13,$0.25,V,2,U
+2402,Goblin Lore,11,$2.99,R,2,U
+2403,Weapon Surge,12,$0.25,R,1,C
+2404,Secluded Steppe,15,$0.25,V,0,C
+2405,Aggressive Mining,17,$0.35,R,4,R
+2406,Experimental Frenzy,19,$0.35,R,4,R
+2407,Scab-Clan Berserker,19,$0.39,R,2,R
+2408,Brittle Effigy,14,$0.25,V,1,R
+2409,Ball Lightning,14,$1.49,R,1,R
+2410,Ghostfire,9,$0.25,R,3,C
+2411,Refraction Trap,15,$0.25,W,4,U
+2412,Meteor Swarm,12,$0.25,R,1,R
+2413,Ruination Rioter,16,$0.25,RG,2,U
+2414,Bonebreaker Giant,17,$0.25,R,5,C
+2415,Traitorous Greed,16,$0.25,R,4,U
+2416,Scaled Wurm,11,$0.25,G,8,C
+2417,Jinxed Choker,13,$1.29,V,3,R
+2418,Arch of Orazca,14,$0.99,V,0,R
+2419,Eternal Scourge,15,$1.29,V,3,R
+2420,Urza's Tome,11,$0.25,V,2,U
+2421,Simic Signet,12,$0.29,V,2,C
+2422,Cryptic Caves,13,$0.25,V,0,U
+2423,Unexpected Results,18,$0.59,UG,4,R
+2424,Endless One,11,$1.99,V,0,R
+2425,Talisman of Dominance,21,$5.99,V,2,U
+2426,Hashep Oasis,12,$0.29,V,0,U
+2427,Haunted Fengraf,15,$0.25,V,0,C
+2428,Blight Herder,13,$0.35,V,5,R
+2429,Talisman of Indulgence,22,$3.49,V,2,U
+2430,Coax from the Blind Eternities,30,$0.35,U,3,R
+2431,Combustible Gearhulk,20,$0.99,R,5,M
+2432,Apex of Power,13,$0.49,R,8,M
+2433,Pyromancer's Goggles,20,$2.49,V,5,M
+2434,Disaster Radius,15,$0.35,R,6,R
+2435,Mobilized District,18,$0.35,V,0,R
+2436,Blasphemous Act,15,$2.79,R,9,R
+2437,Emergence Zone,14,$0.79,V,0,U
+2438,Hedron Archive,14,$0.25,V,4,U
+2439,Precursor Golem,15,$0.35,V,5,R
+2440,The Immortal Sun,16,$34.99,V,6,M
+2441,Akroma's Memorial,17,$13.99,V,7,R
+2442,Steel Hellkite,14,$0.35,V,6,R
+2443,Pillar of Origins,17,$0.79,V,2,U
+2444,Goblin Oriflamme,16,$0.25,R,2,U
+2445,Sands of Delirium,17,$1.29,V,3,R
+2446,Phyrexian Juggernaut,20,$0.25,V,6,U
+2447,Batterbone,10,$0.25,V,2,U
+2448,Spawnsire of Ulamog,19,$7.99,V,10,R
+2449,Legacy Weapon,13,$3.49,V,7,R
+2450,Treasure Map,12,$10.99,V,2,R
+2451,God-Pharaoh's Gift,18,$1.49,V,7,R
+2452,Skyclave Shade,14,$0.25,B,2,R
+2453,Sign in Blood,13,$0.25,B,1,C
+2454,Putrid Leech,12,$0.25,BG,2,C
+2455,Footfall Crater,15,$0.49,R,1,U
+2456,Faithless Salvaging,19,$0.25,R,2,C
+2457,Narnam Renegade,15,$0.25,G,1,U
+2458,Painful Truths,14,$0.39,B,3,R
+2459,Tend the Pests,14,$0.25,BG,2,U
+2460,Ultimate Price,14,$0.25,B,2,U
+,name,namelength,price,color,cmc,rarity
