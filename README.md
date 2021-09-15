@@ -11,7 +11,7 @@ All data gathered from https://mtgdecks.net/Modern and by extension https://www.
 
 This is by no means perfect, and I still learn each and every time I go back to this. I hope you enjoy and learn.
 
-In the ever changing and hyper competitive meta of Magic: The Gathering, many destitute players find themselves making a tough decision: eat, or git gud? When the best decks are worth well over a thousand dollars, starving paperback jockeys look wherever they can to find value and still retain their sense of superiority. Well my little cretins, look no further.
+In the ever changing and hyper competitive meta of Magic: The Gathering, many destitute players find themselves making a tough decision: eat, or git gud? When the best decks are worth well over a thousand dollars, starving paperback jockeys look wherever they can to find value and still retain their sense of superiority. By analyzing the top deck archetypes in the Modern format, I believed I could find a  representative snapshot of the financial landscape of Magic: The Gathering.
 
 I started this journey with a few basic questions.
 1. What is the cheapest color to play in modern?
@@ -32,9 +32,17 @@ As you can see, the cheapest mono-color to play is Red, the cheapest dual-color 
 
 Speaking of rarity (not the mind melter of a sentence), I also extrapolated the rarity of each card and put it against the average price. As this graph isn't as loaded as the last,  I also included the count of each card that belongs to that specific rarity which is located below each bar.
 
-To explain some of these prices before you see them for those unfamiliar or forgetfull:
-1. When you open a Magic: The Gathering booster pack physically, it will contain 15 cards. One basic land, Ten common cards, three uncommon cards, and one is either a rare or mythic rare (you are less likely to open a mythic rare than a rare).
+To explain some of these prices before you see them for those unfamiliar or forgetful:
+1. When you open a Magic: The Gathering booster pack physically, it will contain 15 cards. One basic land, ten common cards, three uncommon cards, and one is either a rare or mythic rare (you are less likely to open a mythic rare than a rare).
 
 ![avg Price vs Rarity v2 0](https://user-images.githubusercontent.com/86437248/133210901-3eda5c33-23df-4adc-abc3-0570243a6b77.png)
 
-When I first saw this data, I was surprised as I expected the Commons to be cheaper, as most usually are worth less than an American quarter. However, because these commons belong to the best decks in the format, they are very good commons. Highly prized, but still Common. 
+When I first saw this data, I was surprised as I expected the Commons to be cheaper, as most usually are worth less than an American quarter. However, because these commons belong to the best decks in the format, they are very good commons. Highly prized, but still common. 
+
+Next, let's look at the converted mana cost of each card versus it's average price.
+1. The "Converted Mana Cost" or "CMC" for short is the total amount of mana one would spend casting (aka playing) that card. 
+
+![CMC vs Average Price 1 0 reverse gradient](https://user-images.githubusercontent.com/86437248/133364864-776d38b6-4d06-49d6-9711-b5eebd26c903.png)
+
+Of the top 2460 cards, there were barely any that costed more than 6 mana. The few that are so mana-heavy break the bank, costing more than the previous numbers combined. These cards are powerful, and methods exist in the game to cast these spells *without* paying their mana cost. Otherwise, by the time you have enough mana to cast such spells, you would usually have lost the game.
+
