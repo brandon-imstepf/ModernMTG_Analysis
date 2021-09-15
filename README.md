@@ -52,4 +52,10 @@ Last but not least, a graph that helps nobody. You've already read this far, so 
 
 As you can see, the cheapest cards in the game are the ones with the fewest letters. (Except for 31 characters, which is comprised of Sunhome, Fortress of the Legion and Asmoranomardicadaistinaculdacar.) 
 
-So what do you do with this information? I'm not naiive enough to give any of you a concrete answer based on this data. The game I've been playing for more than 20 years now is far too nuanced to be 'solved' by analyzation. Sure, from the data you've seen here today, you could build an Abzan deck of the lowest CMC's possible with the shortest card names possible and all of the lowest rarity. You *could* build it, but you probably won't win with it. However, there is information to be gathered here. If you really are looking for ways not to break your bank and still get those dubs, a guide like this is a great place to start. As mentioned before, this analysis only took from the top FOURTY (40) deck archetypes in Modern MTG. Far more cards could be analyzed, but with the constraints I was placed under, most likely wouldn't have impacted the analysis in a major way.
+So what do you do with this information? I'm not naiive enough to give any of you a concrete answer based on this data. The game I've been playing for more than 20 years now is far too nuanced to be 'solved' by analyzation. Sure, from the data you've seen here today, you could build an Abzan deck of the lowest CMC's possible with the shortest card names possible and all of the lowest rarity. You *could* build it, but you probably won't win with it. 
+
+However, there is information to be gathered here. If you really are looking for ways not to break your bank and still get those dubs, a guide like this is a great place to start. As mentioned before, this analysis only took from the top FOURTY (40) deck archetypes in Modern MTG. Far more cards could be analyzed, but with the constraints I was placed under, most likely wouldn't have impacted the analysis in a major way.
+
+In conclusion, use this data with a grain of salt, as creating a great deck requires many complex ingredients -- one of those ingredients being salt. Take a pinch of this analysis and use it when you craft your next deck, so you don't craft your way into bankruptcy.
+
+Thank you.
