@@ -46,3 +46,10 @@ Next, let's look at the converted mana cost of each card versus it's average pri
 
 Of the top 2460 cards, there were barely any that costed more than 6 mana. The few that are so mana-heavy break the bank, costing more than the previous numbers combined. These cards are powerful, and methods exist in the game to cast these spells *without* paying their mana cost. Otherwise, by the time you have enough mana to cast such spells, you would usually have lost the game.
 
+Last but not least, a graph that helps nobody. You've already read this far, so you're forced to see the next one.
+
+![name length vs average price 2](https://user-images.githubusercontent.com/86437248/133369055-262d3ec8-a42d-4c81-8a77-83fbef53befc.png)
+
+As you can see, the cheapest cards in the game are the ones with the fewest letters. (Except for 31 characters, which is comprised of Sunhome, Fortress of the Legion and Asmoranomardicadaistinaculdacar.) 
+
+So what do you do with this information? I'm not naiive enough to give any of you a concrete answer based on this data. The game I've been playing for more than 20 years now is far too nuanced to be 'solved' by analyzation. Sure, from the data you've seen here today, you could build an Abzan deck of the lowest CMC's possible with the shortest card names possible and all of the lowest rarity. You *could* build it, but you probably won't win with it. However, there is information to be gathered here. If you really are looking for ways not to break your bank and still get those dubs, a guide like this is a great place to start. As mentioned before, this analysis only took from the top FOURTY (40) deck archetypes in Modern MTG. Far more cards could be analyzed, but with the constraints I was placed under, most likely wouldn't have impacted the analysis in a major way.
